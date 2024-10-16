@@ -1,32 +1,79 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729033040146 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729040820073 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1729033055300 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729040823183 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729033058462 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729040826313 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729033061571 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729040829384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729033064668 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729040832465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729033067774 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729040835535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040838612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040841854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040844943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040848045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040851134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040854214 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040857283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040860363 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040863468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+steel-reno.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729040866536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
