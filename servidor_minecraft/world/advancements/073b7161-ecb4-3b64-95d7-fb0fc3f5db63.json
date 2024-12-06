@@ -37,7 +37,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2024-12-06 21:55:33 +0000",
       "minecraft:river": "2024-12-06 20:12:12 +0000",
+      "minecraft:forest": "2024-12-06 21:35:49 +0000",
       "minecraft:flower_forest": "2024-12-06 20:08:06 +0000",
       "minecraft:savanna": "2024-12-06 20:09:42 +0000",
       "minecraft:plains": "2024-12-06 20:38:11 +0000"
@@ -1543,27 +1545,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_gold_block": "2024-12-06 20:57:09 +0000"
+      "has_log": "2024-12-06 20:52:28 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "iron_pickaxe": "2024-12-06 20:54:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-12-06 20:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
+      "has_logs": "2024-12-06 20:52:28 +0000"
     },
     "done": true
   },
@@ -1573,33 +1563,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-06 20:52:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-06 20:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
     },
     "done": true
   },
@@ -1615,57 +1581,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-06 20:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-06 20:52:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2024-12-06 20:57:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-06 20:53:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 20:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-06 20:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2024-12-06 20:54:03 +0000"
     },
     "done": true
   },
@@ -1687,9 +1605,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 20:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-06 20:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-06 20:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-06 20:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-06 20:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-06 20:53:54 +0000"
     },
     "done": true
   },
@@ -1705,15 +1653,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_stone_slab": "2024-12-06 20:54:07 +0000"
+      "has_andesite": "2024-12-06 20:54:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
-      "has_raw_iron_block": "2024-12-06 20:53:22 +0000"
+      "has_andesite": "2024-12-06 20:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 20:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 20:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 20:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 20:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-06 20:54:03 +0000"
     },
     "done": true
   },
@@ -1729,21 +1707,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-06 20:57:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 20:54:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_planks": "2024-12-06 20:52:37 +0000"
+      "has_stone_slab": "2024-12-06 20:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-06 20:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-06 20:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-06 20:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-06 20:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 21:35:04 +0000"
     },
     "done": true
   },

@@ -37,7 +37,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2024-12-06 21:52:04 +0000",
       "minecraft:river": "2024-12-06 20:07:53 +0000",
+      "minecraft:forest": "2024-12-06 21:35:48 +0000",
       "minecraft:flower_forest": "2024-12-06 19:56:13 +0000",
       "minecraft:savanna": "2024-12-06 20:09:42 +0000",
       "minecraft:plains": "2024-12-06 20:44:05 +0000"
@@ -1020,8 +1022,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 20:24:25 +0000",
+      "minecraft:spider": "2024-12-06 21:28:57 +0000",
       "minecraft:husk": "2024-12-06 20:31:32 +0000",
-      "minecraft:zombie": "2024-12-06 20:44:51 +0000"
+      "minecraft:zombie": "2024-12-06 20:44:51 +0000",
+      "minecraft:zombie_villager": "2024-12-06 21:32:22 +0000"
     },
     "done": false
   },
@@ -1517,15 +1521,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-06 20:51:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-06 20:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 20:51:46 +0000"
     },
     "done": true
   },
@@ -1535,21 +1539,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "has_moss_block": "2024-12-06 20:55:35 +0000"
+      "has_spruce_trapdoor": "2024-12-06 20:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-06 20:55:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-06 20:55:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2024-12-06 20:55:33 +0000"
     },
     "done": true
   },
@@ -1565,9 +1569,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_bow": "2024-12-06 20:55:33 +0000"
+      "has_polished_andesite": "2024-12-06 20:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-06 20:55:35 +0000"
     },
     "done": true
   },
@@ -1577,15 +1587,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2024-12-06 20:55:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-06 20:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 21:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 21:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 21:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 21:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 21:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 21:22:25 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-06 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-06 21:31:28 +0000"
     },
     "done": true
   },
