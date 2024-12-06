@@ -1347,3 +1347,7 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 22:26:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Getting an Upgrade]
 [06Dec2024 22:26:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has reached the goal [Feeling Watched]
 [06Dec2024 22:26:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Stone Age]
+[06Dec2024 22:27:31.613] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[06Dec2024 22:28:45.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=64, z=46} BlockPos{x=135, y=63, z=44}
+[06Dec2024 22:29:19.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=68, z=62} BlockPos{x=150, y=67, z=62}
+[06Dec2024 22:31:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Acquire Hardware]
