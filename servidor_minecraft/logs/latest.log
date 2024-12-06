@@ -1167,3 +1167,7 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 20:52:21.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
 [06Dec2024 20:54:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Isn't It Iron Pick]
 [06Dec2024 20:55:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was blown up by Creeper
+[06Dec2024 20:57:39.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[06Dec2024 20:57:39.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[06Dec2024 20:57:59.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 20:57:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
