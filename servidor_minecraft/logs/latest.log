@@ -1296,3 +1296,21 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 21:52:40.166] [Worker-Main-103/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
 [06Dec2024 21:52:53.525] [Worker-Main-102/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [06Dec2024 21:54:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[06Dec2024 21:57:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[06Dec2024 21:57:09.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Pic-A-Nic Basket?]
+[06Dec2024 21:59:43.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[06Dec2024 22:00:40.200] [Worker-Main-103/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[06Dec2024 22:00:40.293] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[06Dec2024 22:01:10.269] [Worker-Main-101/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[06Dec2024 22:01:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was shot by Skeleton
+[06Dec2024 22:02:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Gone Bananas!]
+[06Dec2024 22:02:51.924] [Worker-Main-103/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[06Dec2024 22:03:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 fell from a high place
+[06Dec2024 22:05:05.211] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=191, z=150}
+[06Dec2024 22:05:05.212] [Worker-Main-101/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:enchanted_golden_apple"}
+[06Dec2024 22:05:05.213] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=190, z=150}
+[06Dec2024 22:05:05.213] [Worker-Main-101/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:diamond"}
+[06Dec2024 22:05:15.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was shot by Skeleton
+[06Dec2024 22:05:54.683] [Worker-Main-102/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[06Dec2024 22:06:49.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[06Dec2024 22:06:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
