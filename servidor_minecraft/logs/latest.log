@@ -1135,3 +1135,35 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 20:40:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Suit Up]
 [06Dec2024 20:40:06.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Suit Up]
 [06Dec2024 20:45:50.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[06Dec2024 20:46:38.935] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[06Dec2024 20:46:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Not Today, Thank You]
+[06Dec2024 20:47:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was blown up by Creeper
+[06Dec2024 20:47:38.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/19972, l='ServerLevel[world]', x=39.50, y=265.06, z=62.26] died, message: 'Fisherman hit the ground too hard'
+[06Dec2024 20:48:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Take Aim]
+[06Dec2024 20:48:34.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/19931, l='ServerLevel[world]', x=167.50, y=63.00, z=21.11] died, message: 'Farmer was slain by Zombie'
+[06Dec2024 20:49:19.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has reached the goal [Feeling Watched]
+[06Dec2024 20:49:25.902] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[06Dec2024 20:49:25.903] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[06Dec2024 20:49:25.926] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[06Dec2024 20:49:29.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[06Dec2024 20:49:29.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[06Dec2024 20:49:34.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Enderman
+[06Dec2024 20:49:39.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[06Dec2024 20:49:49.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.118.237.186:34571] logged in with entity id 21792 at (311.5887862854735, 70.0, 81.75209014681614)
+[06Dec2024 20:49:49.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[06Dec2024 20:49:49.062] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[06Dec2024 20:49:52.027] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[06Dec2024 20:49:52.028] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[06Dec2024 20:49:52.028] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[06Dec2024 20:49:52.046] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[06Dec2024 20:49:52.046] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[06Dec2024 20:49:52.046] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[06Dec2024 20:51:07.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 20:51:07.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 20:51:11.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:55853] logged in with entity id 22543 at (321.69999998807907, 70.5625, 83.32088265134854)
+[06Dec2024 20:51:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 20:51:11.978] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 20:51:41.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Isn't It Iron Pick]
+[06Dec2024 20:52:21.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[06Dec2024 20:54:56.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Isn't It Iron Pick]
+[06Dec2024 20:55:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was blown up by Creeper
