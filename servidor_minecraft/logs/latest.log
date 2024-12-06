@@ -1088,3 +1088,47 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 20:14:40.375] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-198, y=28, z=-384}
 [06Dec2024 20:14:40.375] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-199, y=33, z=-385}
 [06Dec2024 20:14:40.985] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
+[06Dec2024 20:16:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Sweet Dreams]
+[06Dec2024 20:16:41.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[06Dec2024 20:16:48.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Sweet Dreams]
+[06Dec2024 20:17:16.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Stone Age]
+[06Dec2024 20:18:04.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Basic Tinkering (Tetra)]
+[06Dec2024 20:18:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Bench mk II]
+[06Dec2024 20:18:42.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Getting an Upgrade]
+[06Dec2024 20:19:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Cutting a New One]
+[06Dec2024 20:22:13.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Hunt and Gather]
+[06Dec2024 20:22:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Acquire Hardware]
+[06Dec2024 20:22:45.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[06Dec2024 20:22:45.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[06Dec2024 20:22:56.985] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=33, z=-388}
+[06Dec2024 20:22:56.985] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=31, z=-384}
+[06Dec2024 20:22:57.345] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
+[06Dec2024 20:22:57.345] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
+[06Dec2024 20:22:57.345] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
+[06Dec2024 20:22:57.345] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
+[06Dec2024 20:22:57.399] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=26, z=-318}
+[06Dec2024 20:24:22.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Not Today, Thank You]
+[06Dec2024 20:24:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Monster Hunter]
+[06Dec2024 20:25:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Skeleton
+[06Dec2024 20:25:42.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[06Dec2024 20:25:44.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Monster Hunter]
+[06Dec2024 20:25:55.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Skeleton
+[06Dec2024 20:27:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Skeleton
+[06Dec2024 20:27:17.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Crops of the Wild]
+[06Dec2024 20:27:31.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was shot by Skeleton
+[06Dec2024 20:30:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Husk
+[06Dec2024 20:30:16.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Husk
+[06Dec2024 20:30:45.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Getting an Upgrade]
+[06Dec2024 20:30:45.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Stone Age]
+[06Dec2024 20:30:45.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Basic Tinkering (Tetra)]
+[06Dec2024 20:30:58.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Husk
+[06Dec2024 20:32:30.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 20:32:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 20:32:36.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:47433] logged in with entity id 14822 at (56.707479378445974, 79.0, 10.715653382469652)
+[06Dec2024 20:32:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 20:32:36.335] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 20:32:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Husk
+[06Dec2024 20:34:06.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was blown up by Creeper
+[06Dec2024 20:34:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Husk
+[06Dec2024 20:35:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Husk
+[06Dec2024 20:35:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Husk
