@@ -1351,3 +1351,135 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 22:28:45.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=64, z=46} BlockPos{x=135, y=63, z=44}
 [06Dec2024 22:29:19.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=68, z=62} BlockPos{x=150, y=67, z=62}
 [06Dec2024 22:31:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Acquire Hardware]
+[06Dec2024 22:38:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA fell from a high place
+[06Dec2024 22:38:29.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Man From The Fog
+[06Dec2024 22:39:00.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/65688, l='ServerLevel[world]', x=39.37, y=265.06, z=62.26] died, message: 'Fisherman hit the ground too hard'
+[06Dec2024 22:39:13.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 22:39:13.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 22:40:22.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[06Dec2024 22:40:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[06Dec2024 22:40:58.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:49227] logged in with entity id 67560 at (163.47090066987164, 64.18970334025373, 38.880618412816695)
+[06Dec2024 22:40:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 22:40:58.089] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 22:41:30.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.118.237.186:36043] logged in with entity id 68395 at (745.6013940329796, 31.0, 126.47829642725976)
+[06Dec2024 22:41:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[06Dec2024 22:41:30.954] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[06Dec2024 22:44:17.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Howling Blades]
+[06Dec2024 22:45:02.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:42267] logged in with entity id 69925 at (68.55175837778538, 98.5625, 17.9768844294951)
+[06Dec2024 22:45:02.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[06Dec2024 22:45:02.154] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[06Dec2024 22:45:08.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/70103, l='ServerLevel[world]', x=173.70, y=64.00, z=9.78] died, message: 'Beekeeper was slain by Zombie'
+[06Dec2024 22:45:14.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/70119, l='ServerLevel[world]', x=165.30, y=64.00, z=11.38] died, message: 'Beekeeper was slain by Zombie Villager'
+[06Dec2024 22:45:20.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70102, l='ServerLevel[world]', x=165.30, y=64.00, z=13.66] died, message: 'Villager was slain by Zombie'
+[06Dec2024 22:46:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> 700 150
+[06Dec2024 22:47:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Isn't It Iron Pick]
+[06Dec2024 22:49:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Suit Up]
+[06Dec2024 22:51:24.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Zombie
+[06Dec2024 22:51:51.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 22:51:51.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 22:52:09.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:38241] logged in with entity id 73837 at (97.69999998807907, 67.9375, 55.69999998807907)
+[06Dec2024 22:52:09.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 22:52:09.624] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 22:54:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Not Today, Thank You]
+[06Dec2024 22:58:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Sweet Dreams]
+[06Dec2024 23:01:04.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[06Dec2024 23:01:04.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[06Dec2024 23:01:17.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Man From The Fog
+[06Dec2024 23:01:37.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:54537] logged in with entity id 80188 at (585.9329702962297, 61.012982087858575, 64.76680048482284)
+[06Dec2024 23:01:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[06Dec2024 23:01:37.258] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[06Dec2024 23:01:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[06Dec2024 23:04:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Diamonds!]
+[06Dec2024 23:05:15.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Skeleton
+[06Dec2024 23:06:09.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=71, z=44} BlockPos{x=307, y=69, z=44}
+[06Dec2024 23:07:12.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Cover Me with Diamonds]
+[06Dec2024 23:07:46.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 23:07:46.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 23:08:14.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Suit Up]
+[06Dec2024 23:08:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Diamonds!]
+[06Dec2024 23:09:39.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:44599] logged in with entity id 84816 at (734.9014025267321, 13.0, 179.41063728728255)
+[06Dec2024 23:09:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 23:09:39.324] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 23:15:05.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Sweet Dreams]
+[06Dec2024 23:15:32.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> zzzz
+[06Dec2024 23:17:57.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06Dec2024 23:18:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Take Aim]
+[06Dec2024 23:18:24.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 withered away
+[06Dec2024 23:21:49.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! -10.245820606601342,0.0,-0.09893603029860287
+[06Dec2024 23:22:10.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Isn't It Iron Pick]
+[06Dec2024 23:22:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Hot Stuff]
+[06Dec2024 23:22:50.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.24.173.83:42049] logged in with entity id 88308 at (-5.5, 69.0, -4.5)
+[06Dec2024 23:22:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[06Dec2024 23:22:50.040] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[06Dec2024 23:23:39.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 0.560401247153294,-0.18970334025372892,10.006658735311575
+[06Dec2024 23:24:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was burnt to a crisp whilst fighting Skeleton
+[06Dec2024 23:24:30.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Stray
+[06Dec2024 23:25:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has completed the challenge [It Spreads]
+[06Dec2024 23:26:09.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Zombie
+[06Dec2024 23:26:54.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has reached the goal [Feeling Watched]
+[06Dec2024 23:27:36.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Cover Me with Diamonds]
+[06Dec2024 23:27:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Zombie
+[06Dec2024 23:27:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Zombie
+[06Dec2024 23:27:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Zombie
+[06Dec2024 23:28:04.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[06Dec2024 23:28:23.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Hollow Solids]
+[06Dec2024 23:29:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Sculk Cymbal]
+[06Dec2024 23:29:29.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Stone Age]
+[06Dec2024 23:29:54.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Getting an Upgrade]
+[06Dec2024 23:30:29.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Sneak 100]
+[06Dec2024 23:30:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Sneak 100]
+[06Dec2024 23:30:45.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Sneak 100]
+[06Dec2024 23:30:46.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Sneak 100]
+[06Dec2024 23:31:30.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[06Dec2024 23:33:05.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Stray
+[06Dec2024 23:33:55.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Sneak 100]
+[06Dec2024 23:33:59.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Stray
+[06Dec2024 23:34:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Alunnaki
+[06Dec2024 23:34:16.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=694, y=5, z=213}
+[06Dec2024 23:34:20.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Alex's Caves]
+[06Dec2024 23:35:07.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Stray
+[06Dec2024 23:35:08.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Sweet Dreams]
+[06Dec2024 23:35:27.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Suit Up]
+[06Dec2024 23:36:56.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was blown up by Creeper
+[06Dec2024 23:37:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported ItsGOJIRA to Alunnaki]
+[06Dec2024 23:38:55.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was obliterated by a sonically-charged shriek
+[06Dec2024 23:40:23.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was pummeled by Capuchin Monkey
+[06Dec2024 23:42:23.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Hunt and Gather]
+[06Dec2024 23:42:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [A Seedy Place]
+[06Dec2024 23:43:16.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/99096, l='ServerLevel[world]', x=117.12, y=63.88, z=-227.51] died, message: 'Villager was slain by Zombie'
+[06Dec2024 23:43:26.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Monster Hunter]
+[06Dec2024 23:45:31.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=256, y=73, z=-175} BlockPos{x=255, y=72, z=-174}
+[06Dec2024 23:45:31.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=256, y=73, z=-175} BlockPos{x=255, y=72, z=-174}
+[06Dec2024 23:45:31.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=73, z=-174} BlockPos{x=255, y=72, z=-174}
+[06Dec2024 23:45:31.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=73, z=-174} BlockPos{x=255, y=72, z=-174}
+[06Dec2024 23:46:32.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [We do a little trolling...]
+[06Dec2024 23:46:57.106] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[06Dec2024 23:46:57.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has reached the goal [Pray to the Goddess]
+[06Dec2024 23:46:59.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[06Dec2024 23:47:02.085] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[06Dec2024 23:47:02.085] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[06Dec2024 23:47:02.247] [Worker-Main-148/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[06Dec2024 23:47:33.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106915, l='ServerLevel[world]', x=948.90, y=78.00, z=57.59] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:47:40.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106934, l='ServerLevel[world]', x=947.15, y=78.00, z=57.64] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:47:53.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Man From The Fog
+[06Dec2024 23:47:56.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=77, z=58} BlockPos{x=937, y=76, z=57}
+[06Dec2024 23:48:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Howling Blades]
+[06Dec2024 23:48:50.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106932, l='ServerLevel[world]', x=939.46, y=74.00, z=49.12] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:48:55.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106935, l='ServerLevel[world]', x=952.91, y=74.06, z=52.49] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:48:59.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106916, l='ServerLevel[world]', x=943.51, y=72.50, z=45.34] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:49:20.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106933, l='ServerLevel[world]', x=941.70, y=74.00, z=58.25] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:49:25.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106931, l='ServerLevel[world]', x=942.80, y=75.27, z=51.42] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:51:40.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107431, l='ServerLevel[world]', x=957.48, y=77.60, z=58.49] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:51:43.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107323, l='ServerLevel[world]', x=951.51, y=76.42, z=55.62] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:51:51.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106912, l='ServerLevel[world]', x=943.68, y=74.00, z=55.70] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:51:55.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106914, l='ServerLevel[world]', x=938.97, y=77.97, z=57.74] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:52:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Bench mk II]
+[06Dec2024 23:52:40.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/106913, l='ServerLevel[world]', x=943.52, y=74.35, z=52.70] died, message: 'Leatherworker was slain by Mirianisabel123'
+[06Dec2024 23:52:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Gave 1 [] to Alunnaki]
+[06Dec2024 23:52:52.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Surge Protector]
+[06Dec2024 23:52:57.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106910, l='ServerLevel[world]', x=939.58, y=73.00, z=47.70] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:53:03.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107322, l='ServerLevel[world]', x=948.84, y=74.00, z=52.51] died, message: 'Villager was slain by Mirianisabel123'
+[06Dec2024 23:56:10.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> awd a
+[06Dec2024 23:56:47.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[06Dec2024 23:56:55.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[06Dec2024 23:57:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Elephant
