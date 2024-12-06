@@ -1314,3 +1314,36 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [06Dec2024 22:05:54.683] [Worker-Main-102/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [06Dec2024 22:06:49.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
 [06Dec2024 22:06:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[06Dec2024 22:07:31.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 22:07:31.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 22:08:00.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.118.237.186:42029] logged in with entity id 53145 at (726.7505524308339, 93.0, 150.64285437460987)
+[06Dec2024 22:08:00.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[06Dec2024 22:08:00.974] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[06Dec2024 22:08:08.916] [Worker-Main-101/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[06Dec2024 22:08:08.968] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[06Dec2024 22:08:11.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:59371] logged in with entity id 53392 at (496.7617165706806, 103.0, 349.73314177469376)
+[06Dec2024 22:08:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 22:08:11.054] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 22:08:11.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[06Dec2024 22:08:11.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[06Dec2024 22:12:05.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Ant-Agonizer]
+[06Dec2024 22:13:23.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[06Dec2024 22:13:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[06Dec2024 22:14:31.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.77.59.197:37243] logged in with entity id 55140 at (722.5158703637418, 89.0, 139.05387796719822)
+[06Dec2024 22:14:31.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[06Dec2024 22:14:31.082] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[06Dec2024 22:19:18.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.118.237.186:45809] logged in with entity id 56323 at (722.8471379190543, 90.79673560066871, 157.52045809311298)
+[06Dec2024 22:19:18.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[06Dec2024 22:19:18.902] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[06Dec2024 22:22:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Spider
+[06Dec2024 22:22:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Gone Bananas!]
+[06Dec2024 22:23:20.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/58413, l='ServerLevel[world]', x=40.12, y=265.06, z=62.29] died, message: 'Fisherman hit the ground too hard'
+[06Dec2024 22:24:54.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:38789] logged in with entity id 59017 at (-5.5, 69.0, -1.5)
+[06Dec2024 22:24:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[06Dec2024 22:24:54.355] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[06Dec2024 22:25:20.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=64, z=6}
+[06Dec2024 22:25:21.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=63, z=11}
+[06Dec2024 22:26:04.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Monster Hunter]
+[06Dec2024 22:26:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Getting an Upgrade]
+[06Dec2024 22:26:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has reached the goal [Feeling Watched]
+[06Dec2024 22:26:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Stone Age]

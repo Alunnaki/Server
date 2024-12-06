@@ -1727,33 +1727,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_any_ingredient": "2024-12-06 22:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2024-12-06 22:02:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-06 22:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2024-12-06 22:05:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:02:16 +0000"
+      "has_allium": "2024-12-06 21:58:14 +0000"
     },
     "done": true
   },
@@ -1763,21 +1739,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "has_allium": "2024-12-06 21:58:14 +0000"
+      "has_any_ingredient": "2024-12-06 21:58:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
+  "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "has_planks": "2024-12-06 22:02:16 +0000"
+      "has_onion": "2024-12-06 21:58:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
-      "has_planks": "2024-12-06 22:02:16 +0000"
+      "has_any_ingredient": "2024-12-06 21:58:15 +0000"
     },
     "done": true
   },
@@ -1793,15 +1769,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 22:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-06 22:02:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_any_ingredient": "2024-12-06 21:58:15 +0000"
+      "has_planks": "2024-12-06 22:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:02:16 +0000"
     },
     "done": true
   },
@@ -1835,27 +1829,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 22:02:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 22:05:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 22:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 22:05:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2024-12-06 22:05:03 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
-      "has_onion": "2024-12-06 21:58:15 +0000"
+      "ex": "2024-12-06 22:12:05 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "has_any_ingredient": "2024-12-06 21:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2024-12-06 22:02:16 +0000"
+      "has_orange_tulip": "2024-12-06 22:25:56 +0000"
     },
     "done": true
   },
