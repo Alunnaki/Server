@@ -451,6 +451,7 @@
       "bread": "2024-12-06 21:29:06 +0000",
       "golden_apple": "2024-12-06 23:10:48 +0000",
       "salmon": "2024-12-07 00:50:05 +0000",
+      "golden_carrot": "2024-12-07 02:35:53 +0000",
       "cod": "2024-12-07 00:43:59 +0000",
       "cooked_salmon": "2024-12-07 01:04:06 +0000"
     },
@@ -2178,6 +2179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-07 02:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-07 02:17:34 +0000"
@@ -2268,6 +2275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-07 02:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-07 02:17:34 +0000"
@@ -2289,6 +2302,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-07 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-07 02:33:46 +0000"
     },
     "done": true
   },

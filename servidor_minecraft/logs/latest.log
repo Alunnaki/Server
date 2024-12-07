@@ -975,3 +975,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 02:33:51.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> me cage
 [07Dec2024 02:34:09.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! -1.2134277932754713,-9.38435409152882,4.4102692759949775
 [07Dec2024 02:34:28.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 9.25145320321181,0.8245767040478995,4.565741674098501
+[07Dec2024 02:34:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> me falta mi pansito :c
+[07Dec2024 02:35:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> thank you
+[07Dec2024 02:35:18.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> gil
+[07Dec2024 02:35:24.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> y eso
+[07Dec2024 02:35:56.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Zombie
+[07Dec2024 02:35:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> hay cabron ya me cage
+[07Dec2024 02:36:13.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38764, l='ServerLevel[world]', x=133.49, y=-256.00, z=101.05] died, message: 'Villager was killed'
+[07Dec2024 02:36:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> mauri tenes flechas?
+[07Dec2024 02:36:36.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 6.842065981051576,0.8050053739771812,-7.325427215052834
+[07Dec2024 02:37:01.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/340, l='ServerLevel[world]', x=138.51, y=63.17, z=58.26] died, message: 'Farmer was slain by Zombie'
+[07Dec2024 02:37:26.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/7, l='ServerLevel[world]', x=133.51, y=75.00, z=101.70] died, message: 'Fletcher was slain by Zombie'
+[07Dec2024 02:37:44.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was shot by Skeleton
+[07Dec2024 02:37:44.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 9.998564100688043,1.1949946260228188,-1.2858498494215702
+[07Dec2024 02:37:55.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[07Dec2024 02:37:55.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[07Dec2024 02:37:56.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 9.143546515944784,1.7967356006687112,3.921996570440946
+[07Dec2024 02:38:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was shot by Skeleton
+[07Dec2024 02:38:18.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> agarro mis cosas y me voy a mimir
+[07Dec2024 02:38:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> chicas
+[07Dec2024 02:38:23.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 8.577312408103388,-1.0013359791121417,5.6553374544532815
+[07Dec2024 02:38:29.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42754, l='ServerLevel[world]', x=234.43, y=-256.00, z=97.78] died, message: 'Villager was killed'
+[07Dec2024 02:38:49.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved too quickly! 10.118007054038287,-1.0013359791121417,-0.40315591173648
+[07Dec2024 02:38:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Zombie
+[07Dec2024 02:40:00.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Timed out
+[07Dec2024 02:40:00.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[07Dec2024 02:42:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[07Dec2024 02:43:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Peaceful
+[07Dec2024 02:44:35.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[07Dec2024 02:46:27.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 02:46:27.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 02:48:16.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Masquerade]
+[07Dec2024 02:49:19.392] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
