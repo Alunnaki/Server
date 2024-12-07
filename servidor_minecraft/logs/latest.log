@@ -1280,3 +1280,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:06:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
 [07Dec2024 05:06:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
 [07Dec2024 05:06:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 05:08:18.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Stray
+[07Dec2024 05:08:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was shot by Stray
+[07Dec2024 05:08:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:08:33.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[07Dec2024 05:08:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed
+[07Dec2024 05:08:45.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed Alunnaki]
+[07Dec2024 05:09:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed
+[07Dec2024 05:09:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed Alunnaki]
+[07Dec2024 05:10:12.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 05:10:17.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 05:10:39.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Zombie
+[07Dec2024 05:10:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:11:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Zombie
+[07Dec2024 05:11:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:11:16.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Zombie
+[07Dec2024 05:11:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Stray
+[07Dec2024 05:11:30.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[07Dec2024 05:12:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 05:12:23.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 05:12:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[07Dec2024 05:12:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 05:15:13.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved wrongly!
