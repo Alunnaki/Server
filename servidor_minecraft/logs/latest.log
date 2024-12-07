@@ -1007,3 +1007,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 02:46:27.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
 [07Dec2024 02:48:16.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Masquerade]
 [07Dec2024 02:49:19.392] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[07Dec2024 02:59:17.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:42907] logged in with entity id 54366 at (941.3000000119209, 74.0, 55.171998279499476)
+[07Dec2024 02:59:17.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 02:59:17.761] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 03:01:06.338] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[07Dec2024 03:01:06.339] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[07Dec2024 03:01:22.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: 1
+[07Dec2024 03:01:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode 1 Alunnaki<--[HERE]
+[07Dec2024 03:01:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alunnaki's game mode to Creative Mode
+[07Dec2024 03:02:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alunnaki's game mode to Survival Mode

@@ -2738,6 +2738,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-07 02:56:56 +0000",
       "tomato": "2024-12-07 01:53:17 +0000",
       "wheat": "2024-12-07 01:45:27 +0000",
       "carrot": "2024-12-07 01:52:29 +0000"
@@ -2924,15 +2925,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-07 03:00:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-07 03:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-07 02:33:46 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-07 03:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-07 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-12-07 03:00:40 +0000"
     },
     "done": true
   },
