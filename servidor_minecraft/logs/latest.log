@@ -1039,3 +1039,113 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 03:33:39.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
 [07Dec2024 03:33:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Alunnaki]
 [07Dec2024 03:33:48.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 03:35:56.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:35:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 03:36:23.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:36:24.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Ferrous Wroughtnaut
+[07Dec2024 03:36:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 03:36:33.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed whilst fighting Mirianisabel123
+[07Dec2024 03:36:33.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed Alunnaki]
+[07Dec2024 03:36:40.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[07Dec2024 03:37:04.802] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Dec2024 03:37:09.847] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-334}
+[07Dec2024 03:37:09.850] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[07Dec2024 03:37:10.225] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[07Dec2024 03:37:10.225] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[07Dec2024 03:37:10.249] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[07Dec2024 03:37:10.258] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[07Dec2024 03:37:10.258] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[07Dec2024 03:37:10.258] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[07Dec2024 03:37:10.884] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[07Dec2024 03:37:10.885] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-330}
+[07Dec2024 03:37:10.944] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[07Dec2024 03:37:11.345] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[07Dec2024 03:37:11.345] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[07Dec2024 03:37:11.663] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[07Dec2024 03:37:11.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[07Dec2024 03:37:11.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[07Dec2024 03:37:11.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[07Dec2024 03:37:11.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-338}
+[07Dec2024 03:37:11.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[07Dec2024 03:37:11.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[07Dec2024 03:37:11.789] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[07Dec2024 03:37:11.789] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[07Dec2024 03:37:11.789] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[07Dec2024 03:37:11.789] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-338}
+[07Dec2024 03:37:11.789] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[07Dec2024 03:37:12.578] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[07Dec2024 03:37:12.578] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[07Dec2024 03:37:13.942] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=26, z=-308}
+[07Dec2024 03:37:13.943] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=26, z=-305}
+[07Dec2024 03:37:13.943] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=26, z=-308}
+[07Dec2024 03:37:13.943] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=26, z=-308}
+[07Dec2024 03:37:13.943] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=26, z=-307}
+[07Dec2024 03:37:14.528] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-317}
+[07Dec2024 03:37:35.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed
+[07Dec2024 03:37:35.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed Alunnaki]
+[07Dec2024 03:38:13.015] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-316}
+[07Dec2024 03:38:13.018] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-316}
+[07Dec2024 03:38:13.018] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=25, z=-317}
+[07Dec2024 03:38:13.068] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=31, z=-312}
+[07Dec2024 03:38:13.070] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=31, z=-313}
+[07Dec2024 03:38:13.071] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-306}
+[07Dec2024 03:38:13.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=31, z=-307}
+[07Dec2024 03:38:13.073] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=31, z=-306}
+[07Dec2024 03:38:13.281] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[07Dec2024 03:38:13.282] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[07Dec2024 03:38:14.621] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[07Dec2024 03:38:14.622] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=25, z=-365}
+[07Dec2024 03:38:14.623] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[07Dec2024 03:38:18.508] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[07Dec2024 03:38:18.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[07Dec2024 03:38:19.614] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[07Dec2024 03:38:19.614] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[07Dec2024 03:38:19.870] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=28, z=-334}
+[07Dec2024 03:38:19.870] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
+[07Dec2024 03:38:19.871] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
+[07Dec2024 03:38:19.871] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
+[07Dec2024 03:38:19.872] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
+[07Dec2024 03:38:19.872] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
+[07Dec2024 03:38:19.956] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=28, z=-335}
+[07Dec2024 03:38:20.067] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
+[07Dec2024 03:38:20.097] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
+[07Dec2024 03:38:20.097] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[07Dec2024 03:38:20.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[07Dec2024 03:38:20.364] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[07Dec2024 03:38:20.544] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
+[07Dec2024 03:38:20.545] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
+[07Dec2024 03:38:20.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-331}
+[07Dec2024 03:38:20.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-333}
+[07Dec2024 03:38:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed
+[07Dec2024 03:38:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed Alunnaki]
+[07Dec2024 03:38:46.975] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[07Dec2024 03:39:24.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[07Dec2024 03:39:24.719] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[07Dec2024 03:39:26.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[07Dec2024 03:39:27.128] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07Dec2024 03:40:23.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 03:40:33.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 03:41:14.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:41:21.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 03:42:21.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:42:24.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 03:44:49.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:44:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 03:45:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has completed the challenge [Just a Flesh Wound]
+[07Dec2024 03:46:30.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Man From The Fog
+[07Dec2024 03:46:45.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 03:49:44.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 03:49:44.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 03:50:05.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:34693] logged in with entity id 88474 at (186.91198697747882, 70.9375, -205.26396914607773)
+[07Dec2024 03:50:05.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 03:50:05.187] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 03:55:31.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[07Dec2024 03:55:31.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[07Dec2024 03:55:37.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.214.9.189:38287] logged in with entity id 91972 at (134.33882912903394, 78.0, 113.52496910490258)
+[07Dec2024 03:55:37.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[07Dec2024 03:55:37.723] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[07Dec2024 03:55:42.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[07Dec2024 03:55:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[07Dec2024 03:55:47.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.214.9.189:48621] logged in with entity id 92323 at (134.33882912903394, 78.0, 113.52496910490258)
+[07Dec2024 03:55:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[07Dec2024 03:55:47.025] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
