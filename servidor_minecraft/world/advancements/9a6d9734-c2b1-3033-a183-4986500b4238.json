@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-06 23:58:52 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-06 23:26:18 +0000"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 00:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-06 23:37:09 +0000"
@@ -323,6 +335,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 00:03:19 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2024-12-07 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 00:03:19 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-06 23:22:50 +0000"
@@ -431,6 +461,12 @@
     },
     "done": true
   },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2024-12-07 00:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-06 23:26:15 +0000"
@@ -446,6 +482,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-06 23:29:04 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2024-12-07 00:04:01 +0000"
     },
     "done": true
   },
@@ -485,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-06 23:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-06 23:55:05 +0000"
@@ -494,6 +542,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-06 23:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 00:03:19 +0000"
     },
     "done": true
   },
@@ -536,6 +590,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-06 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-06 23:58:52 +0000"
     },
     "done": true
   },
@@ -677,9 +737,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-06 23:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-06 23:54:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 23:58:52 +0000"
     },
     "done": true
   },
@@ -692,6 +764,12 @@
   "backpacked:recipes/decorations/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-06 23:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-07 00:01:45 +0000"
     },
     "done": true
   },
@@ -779,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-07 00:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-06 23:32:20 +0000"
@@ -856,6 +940,12 @@
     },
     "done": true
   },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2024-12-07 00:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-06 23:32:20 +0000"
@@ -870,7 +960,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2024-12-07 00:04:50 +0000",
       "apple": "2024-12-06 23:44:11 +0000",
+      "mutton": "2024-12-07 00:04:54 +0000",
       "bread": "2024-12-06 23:26:46 +0000",
       "rotten_flesh": "2024-12-06 23:43:46 +0000",
       "melon_slice": "2024-12-06 23:56:02 +0000",
