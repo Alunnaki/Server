@@ -1302,3 +1302,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:12:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
 [07Dec2024 05:12:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
 [07Dec2024 05:15:13.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved wrongly!
+[07Dec2024 05:17:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki hit the ground too hard whilst trying to escape Rocky Roller
+[07Dec2024 05:17:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:18:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[07Dec2024 05:21:19.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 05:21:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Perfectly Balanced]
+[07Dec2024 05:26:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[07Dec2024 05:26:40.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 05:27:14.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/141342, l='ServerLevel[world]', x=234.58, y=-256.00, z=97.79] died, message: 'Villager was killed'
+[07Dec2024 05:28:54.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 05:28:54.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 05:29:22.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:49115] logged in with entity id 143475 at (959.0983050293675, 77.0, 117.21038204272469)
+[07Dec2024 05:29:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 05:29:22.923] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
