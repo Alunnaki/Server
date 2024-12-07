@@ -140,3 +140,27 @@
 [07Dec2024 00:46:22.799] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
 [07Dec2024 00:46:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Crops of the Wild]
 [07Dec2024 00:47:46.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Cave Dweller
+[07Dec2024 00:49:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to ItsGOJIRA]
+[07Dec2024 00:49:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Summoned new Man From The Fog]
+[07Dec2024 00:49:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Summoned new Man From The Fog]
+[07Dec2024 00:49:29.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[07Dec2024 00:49:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[07Dec2024 00:49:41.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[07Dec2024 00:49:41.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[07Dec2024 00:50:08.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:34225] logged in with entity id 181876 at (30.40176030865999, 21.0, -406.90898410701675)
+[07Dec2024 00:50:08.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[07Dec2024 00:50:08.404] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[07Dec2024 00:50:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 00:53:14.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Iron Golem
+[07Dec2024 00:53:32.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Iron Golem
+[07Dec2024 00:53:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Iron Golem
+[07Dec2024 00:54:03.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Iron Golem
+[07Dec2024 00:54:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Iron Golem
+[07Dec2024 00:56:58.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/149960, l='ServerLevel[world]', x=951.78, y=73.00, z=59.53] died, message: 'Villager was slain by Zombie Villager'
+[07Dec2024 00:56:59.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/185083, l='ServerLevel[world]', x=236.50, y=73.00, z=53.30] died, message: 'Villager was slain by Zombie'
+[07Dec2024 00:57:28.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[07Dec2024 00:57:28.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[07Dec2024 00:57:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Not Today, Thank You]
+[07Dec2024 00:58:09.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[07Dec2024 00:58:23.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 00:58:23.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
