@@ -1315,3 +1315,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:29:22.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:49115] logged in with entity id 143475 at (959.0983050293675, 77.0, 117.21038204272469)
 [07Dec2024 05:29:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
 [07Dec2024 05:29:22.923] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 05:39:33.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: You logged in from another location
+[07Dec2024 05:39:33.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 05:39:33.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.206.64.52:57409] logged in with entity id 147977 at (962.53796846722, 51.0, 56.158457787042295)
+[07Dec2024 05:39:33.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 05:39:33.680] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 05:41:30.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/148129, l='ServerLevel[world]', x=991.64, y=42.00, z=60.16] died: Unlicensed Alchemist was slain by Alunnaki
+[07Dec2024 05:41:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Unlicensed Alchemist
+[07Dec2024 05:41:34.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Unlicensed Alchemist
+[07Dec2024 05:41:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:41:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Unlicensed Alchemist
+[07Dec2024 05:41:41.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:42:04.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Unlicensed Alchemist
+[07Dec2024 05:42:14.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[07Dec2024 05:42:17.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 05:42:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Unlicensed Alchemist
+[07Dec2024 05:42:30.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[07Dec2024 05:42:45.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 05:42:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Unlicensed Alchemist
+[07Dec2024 05:42:56.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[07Dec2024 05:43:04.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 05:43:10.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[07Dec2024 05:43:10.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[07Dec2024 05:45:19.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142603, l='ServerLevel[world]', x=1012.91, y=40.17, z=73.30] died, message: 'Villager was slain by Alunnaki'
+[07Dec2024 05:46:12.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142584, l='ServerLevel[world]', x=982.30, y=43.05, z=74.59] died, message: 'Villager was slain by Alunnaki'
+[07Dec2024 05:47:37.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/150410, l='ServerLevel[world]', x=973.51, y=45.00, z=81.40] died: Unlicensed Alchemist was slain by Alunnaki
+[07Dec2024 05:47:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed by Potion using magic
+[07Dec2024 05:47:44.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
