@@ -1025,3 +1025,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 03:18:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Crops of the Wild]
 [07Dec2024 03:23:29.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Mine? Mine? Mine?]
 [07Dec2024 03:23:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Take Aim]
+[07Dec2024 03:26:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alunnaki's game mode to Spectator Mode
+[07Dec2024 03:26:57.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alunnaki's game mode to Survival Mode
+[07Dec2024 03:27:11.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki a server operator
+[07Dec2024 03:27:25.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 03:29:32.192] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/EntityFallingBlock$EnumFallingBlockMode
+[07Dec2024 03:30:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Ferrous Wroughtnaut
+[07Dec2024 03:30:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:30:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[07Dec2024 03:31:34.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[07Dec2024 03:33:01.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 03:33:11.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 03:33:39.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Ferrous Wroughtnaut
+[07Dec2024 03:33:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Alunnaki]
+[07Dec2024 03:33:48.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
