@@ -1060,6 +1060,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-06 23:59:27 +0000",
       "minecraft:hoglin": "2024-12-07 02:17:28 +0000",
+      "minecraft:slime": "2024-12-07 02:21:32 +0000",
+      "minecraft:phantom": "2024-12-07 02:20:20 +0000",
       "minecraft:wither_skeleton": "2024-12-06 23:17:29 +0000",
       "minecraft:husk": "2024-12-06 22:48:56 +0000",
       "minecraft:zombie": "2024-12-06 21:39:50 +0000"
@@ -2170,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-07 02:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-07 02:17:34 +0000"
@@ -2182,9 +2190,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-07 02:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-07 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2024-12-07 02:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-07 02:21:04 +0000"
     },
     "done": true
   },
@@ -2245,6 +2271,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-07 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-07 02:21:04 +0000"
     },
     "done": true
   },
