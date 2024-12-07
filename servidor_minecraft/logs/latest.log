@@ -1224,3 +1224,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 04:44:40.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:39783] logged in with entity id 116195 at (176.59465285569834, 18.0, 750.7340624642542)
 [07Dec2024 04:44:40.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
 [07Dec2024 04:44:40.931] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 04:47:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Howling Blades]
+[07Dec2024 04:50:11.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[07Dec2024 04:50:18.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 04:53:37.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[07Dec2024 04:55:46.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[07Dec2024 04:55:51.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 04:56:04.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[07Dec2024 04:56:08.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
