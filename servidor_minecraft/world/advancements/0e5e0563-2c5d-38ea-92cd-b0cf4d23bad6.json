@@ -3134,15 +3134,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-12-07 18:43:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-07 18:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-07 18:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-07 18:43:10 +0000"
     },
     "done": true
   },
@@ -3155,12 +3161,6 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-07 18:43:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-07 18:32:58 +0000"
     },
     "done": true
   },
