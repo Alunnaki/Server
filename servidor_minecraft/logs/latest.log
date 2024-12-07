@@ -1203,3 +1203,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 04:36:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Stray
 [07Dec2024 04:36:06.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
 [07Dec2024 04:36:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 04:36:26.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[07Dec2024 04:36:37.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:56875] logged in with entity id 113730 at (203.6760724419517, 18.0, 791.8733174423569)
+[07Dec2024 04:36:37.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 04:36:37.978] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 04:37:04.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 04:38:11.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 04:38:11.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 04:39:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[07Dec2024 04:39:45.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[07Dec2024 04:41:09.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:43963] logged in with entity id 115024 at (221.35095890143586, 18.98415968161518, 794.1870009089669)
+[07Dec2024 04:41:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 04:41:09.028] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 04:41:29.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[07Dec2024 04:42:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Cave Spider
+[07Dec2024 04:43:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 04:43:38.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 04:43:38.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 04:43:50.048] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Dec2024 04:44:40.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.118.237.186:39783] logged in with entity id 116195 at (176.59465285569834, 18.0, 750.7340624642542)
+[07Dec2024 04:44:40.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 04:44:40.931] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
