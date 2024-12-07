@@ -1149,3 +1149,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 03:55:47.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.214.9.189:48621] logged in with entity id 92323 at (134.33882912903394, 78.0, 113.52496910490258)
 [07Dec2024 03:55:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
 [07Dec2024 03:55:47.025] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[07Dec2024 04:06:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has reached the goal [Half a flight]
+[07Dec2024 04:07:59.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 04:08:23.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has reached the goal [Half a flight]
+[07Dec2024 04:09:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Man From The Fog
+[07Dec2024 04:10:28.944] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/92202, l='ServerLevel[world]', x=221.30, y=74.50, z=72.50] died, message: 'Beekeeper was slain by Zombie'
+[07Dec2024 04:11:34.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Enchanter]
+[07Dec2024 04:14:04.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Chompy]
+[07Dec2024 04:14:11.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Crocodile
+[07Dec2024 04:14:11.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Chompy]
+[07Dec2024 04:14:21.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 04:14:30.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Crocodile
+[07Dec2024 04:14:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Crocodile
+[07Dec2024 04:15:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[07Dec2024 04:16:22.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 04:16:27.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Crocodile
+[07Dec2024 04:16:42.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 04:16:48.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[07Dec2024 04:21:25.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[07Dec2024 04:21:25.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[07Dec2024 04:21:25.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[07Dec2024 04:21:25.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[07Dec2024 04:21:30.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[07Dec2024 04:21:30.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[07Dec2024 04:21:30.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[07Dec2024 04:21:30.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[07Dec2024 04:21:30.989] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[07Dec2024 04:21:31.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[07Dec2024 04:22:14.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[07Dec2024 04:22:38.015] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[07Dec2024 04:22:38.016] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[07Dec2024 04:22:38.017] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[07Dec2024 04:22:38.017] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[07Dec2024 04:24:44.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[07Dec2024 04:24:44.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[07Dec2024 04:24:44.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[07Dec2024 04:24:44.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[07Dec2024 04:27:03.359] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[07Dec2024 04:27:03.360] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[07Dec2024 04:27:03.360] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[07Dec2024 04:27:04.574] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[07Dec2024 04:27:04.575] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[07Dec2024 04:27:04.575] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[07Dec2024 04:27:04.575] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[07Dec2024 04:27:09.071] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[07Dec2024 04:27:09.071] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[07Dec2024 04:27:09.072] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[07Dec2024 04:27:09.072] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[07Dec2024 04:30:25.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[07Dec2024 04:31:56.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Cave Dweller
+[07Dec2024 04:34:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Cover Me with Diamonds]
+[07Dec2024 04:34:35.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Cover Me with Diamonds]
+[07Dec2024 04:36:03.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Stray
+[07Dec2024 04:36:06.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 04:36:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
