@@ -1016,3 +1016,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 03:01:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode 1 Alunnaki<--[HERE]
 [07Dec2024 03:01:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alunnaki's game mode to Creative Mode
 [07Dec2024 03:02:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alunnaki's game mode to Survival Mode
+[07Dec2024 03:07:24.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59292, l='ServerLevel[world]', x=234.58, y=-256.00, z=97.79] died, message: 'Villager was killed'
+[07Dec2024 03:10:42.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[07Dec2024 03:10:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[07Dec2024 03:12:14.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.214.9.189:37489] logged in with entity id 60512 at (143.25592837844297, 64.0, 45.750319716667185)
+[07Dec2024 03:12:14.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[07Dec2024 03:12:14.736] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[07Dec2024 03:18:14.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Crops of the Wild]
+[07Dec2024 03:23:29.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Mine? Mine? Mine?]
+[07Dec2024 03:23:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Take Aim]
