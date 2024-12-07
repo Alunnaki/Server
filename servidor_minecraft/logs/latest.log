@@ -704,3 +704,24 @@ Reason: Banned by an operator.
 [07Dec2024 19:32:33.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
 [07Dec2024 19:32:39.486] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Server/servidor_minecraft/config/paraglider-player-states.toml is not correct. Correcting
 [07Dec2024 19:32:51.164] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Server/servidor_minecraft/config/paraglider-player-states.toml is not correct. Correcting
+[07Dec2024 19:34:59.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.154.80.35:41997] logged in with entity id 8971 at (443.3118580783483, 24.0, -387.5600600963202)
+[07Dec2024 19:34:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[07Dec2024 19:34:59.689] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[07Dec2024 19:35:45.283] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Server/servidor_minecraft/./world/serverconfig/paraglider-server.toml is not correct. Correcting
+[07Dec2024 19:36:35.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[07Dec2024 19:36:35.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[07Dec2024 19:37:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 19:37:02.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 19:37:02.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 19:37:02.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 19:37:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 19:37:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 19:37:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 19:37:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 19:37:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 19:37:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 19:37:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Dec2024 19:37:02.482] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Dec2024 19:37:02.483] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[07Dec2024 19:37:02.484] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[07Dec2024 19:37:02.484] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
