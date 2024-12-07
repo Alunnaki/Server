@@ -1,0 +1,74 @@
+{
+  "client_settings": {
+    "color_settings": {
+      "moon_texture_color": "e22833",
+      "sky_light_color": "3333ff"
+    },
+    "moon_size": 20.0,
+    "moon_texture_location": "minecraft:textures/environment/moon_phases.png"
+  },
+  "dimension_chances": {
+    "minecraft:overworld": {
+      "chance": 2.0,
+      "min_number_of_nights_between": 10,
+      "valid_moon_phases": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        7
+      ]
+    }
+  },
+  "drops": {
+    "drop_enhancer": {}
+  },
+  "mob_settings": {
+    "blocks_sleeping": {
+      "type": "corgilib:any"
+    },
+    "lunar_spawn_settings": {
+      "force_surface_spawning": true,
+      "mob_spawn_settings": {
+        "spawn_costs": {},
+        "spawners": {
+          "ambient": [],
+          "axolotls": [],
+          "creature": [],
+          "misc": [],
+          "monster": [],
+          "underground_water_creature": [],
+          "water_ambient": [],
+          "water_creature": []
+        }
+      },
+      "slimes_spawn_everywhere": false,
+      "use_biome_spawn_settings": true
+    },
+    "mob_effects": [],
+    "spawn_category_multiplier": {
+      "monster": 2.25
+    }
+  },
+  "text_components": {
+    "end_notification": {
+      "type": "CHAT",
+      "component": {
+        "key": ""
+      }
+    },
+    "name": {
+      "key": "Blood ",
+      "style": {
+        "color": "e22833"
+      }
+    },
+    "start_notification": {
+      "type": "CHAT",
+      "component": {
+        "key": ""
+      }
+    }
+  }
+}

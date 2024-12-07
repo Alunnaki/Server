@@ -2098,15 +2098,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-07 19:03:22 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-07 19:03:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-07 19:03:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-07 19:03:22 +0000"
     },
     "done": true
   },
@@ -2116,9 +2122,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "mutantmonsters:hulk_smash": {
     "criteria": {
-      "fried_egg": "2024-12-07 19:03:14 +0000"
+      "hammer_in_mainhand": "2024-12-07 19:26:03 +0000"
     },
     "done": true
   },
