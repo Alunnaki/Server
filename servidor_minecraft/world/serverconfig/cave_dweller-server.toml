@@ -90,10 +90,10 @@
 [Attributes]
 	#Maximum health
 	#Range: 1.0 ~ 100000.0
-	maximum_health = 60.0
+	maximum_health = 100.0
 	#Attack damage
 	#Range: 0.0 ~ 1000.0
-	attack_damage = 6.0
+	attack_damage = 12.0
 	#Attack speed
 	#Range: 0.0 ~ 10.0
 	attack_speed = 0.35

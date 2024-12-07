@@ -56,13 +56,13 @@
 
 	[paraglider.running]
 		#Range: > -2147483648
-		staminaDelta = -50
+		staminaDelta = -10
 		#Range: > 0
 		recoveryDelay = 10
 
 	[paraglider.swimming]
 		#Range: > -2147483648
-		staminaDelta = -30
+		staminaDelta = -6
 		#Range: > 0
 		recoveryDelay = 10
 
