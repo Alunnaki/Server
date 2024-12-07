@@ -1342,3 +1342,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:47:37.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/150410, l='ServerLevel[world]', x=973.51, y=45.00, z=81.40] died: Unlicensed Alchemist was slain by Alunnaki
 [07Dec2024 05:47:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed by Potion using magic
 [07Dec2024 05:47:44.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:48:36.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/150927, l='ServerLevel[world]', x=971.50, y=45.00, z=88.40] died: Unlicensed Alchemist was slain by Alunnaki
+[07Dec2024 05:48:39.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/150923, l='ServerLevel[world]', x=971.51, y=43.50, z=90.28] died: Unlicensed Alchemist was slain by Alunnaki
+[07Dec2024 05:48:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was killed by Potion using magic
+[07Dec2024 05:48:43.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:49:05.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Unlicensed Alchemist
+[07Dec2024 05:49:08.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to Mirianisabel123]
+[07Dec2024 05:49:14.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/150925, l='ServerLevel[world]', x=972.50, y=45.00, z=88.31] died: Unlicensed Alchemist was slain by Mirianisabel123
+[07Dec2024 05:50:39.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[07Dec2024 05:50:39.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[07Dec2024 05:50:56.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 05:50:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 05:50:56.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 05:50:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 05:50:56.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 05:50:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 05:50:56.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 05:50:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 05:50:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 05:50:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 05:50:56.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Dec2024 05:50:56.823] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Dec2024 05:50:56.823] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[07Dec2024 05:50:56.824] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[07Dec2024 05:50:56.824] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
