@@ -1133,3 +1133,29 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 22:36:16.010] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
 [08Dec2024 22:38:57.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
 [08Dec2024 22:38:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 22:57:30.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29c5d7b9[id=<null>,name=NAHU_1234,properties={},legacy=false] (/127.94.82.206:38491) lost connection: Disconnected
+[08Dec2024 22:57:38.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:54377] logged in with entity id 87765 at (-1002.3331560499151, 71.0, 650.6339433536873)
+[08Dec2024 22:57:38.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 22:57:38.561] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 23:04:39.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.251.22.77:40621] logged in with entity id 90366 at (1714.925000011921, 104.0, -2122.206801591751)
+[08Dec2024 23:04:39.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 23:04:39.730] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 23:04:59.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 23:04:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 23:07:04.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 23:07:04.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 23:09:02.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:60841] logged in with entity id 92107 at (1718.8932331972776, 100.5, -2128.699999988079)
+[08Dec2024 23:09:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[08Dec2024 23:09:02.908] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[08Dec2024 23:09:20.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.251.22.77:53351] logged in with entity id 92416 at (1714.925000011921, 104.0, -2119.2493163098225)
+[08Dec2024 23:09:20.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 23:09:20.879] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 23:12:08.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:60295] logged in with entity id 92809 at (-936.0132609414856, 38.0, 816.7438186857986)
+[08Dec2024 23:12:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 23:12:08.070] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 23:13:29.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 23:13:29.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 23:13:43.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.251.22.77:35913] logged in with entity id 94061 at (1747.1786887384317, 70.17675927506424, -2112.890589380683)
+[08Dec2024 23:13:43.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 23:13:43.994] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 23:15:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [When in Rome]
