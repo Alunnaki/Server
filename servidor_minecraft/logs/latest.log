@@ -1075,3 +1075,22 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 21:32:54.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:37329] logged in with entity id 69913 at (-986.5515020097708, 83.0, 644.627656804139)
 [08Dec2024 21:32:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
 [08Dec2024 21:32:54.326] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 21:44:47.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 21:44:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 21:44:54.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 21:44:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 21:45:01.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:52493] logged in with entity id 74831 at (-988.3927861642793, 95.0, 661.6035943453027)
+[08Dec2024 21:45:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 21:45:01.764] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 21:45:07.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 21:45:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 21:45:08.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:58279] logged in with entity id 75085 at (937.9741859989737, 69.5, 37.66715495995704)
+[08Dec2024 21:45:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 21:45:08.665] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 21:45:57.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:34979] logged in with entity id 75418 at (-988.3986009122334, 95.0, 661.6630288228778)
+[08Dec2024 21:45:57.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 21:45:57.136] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 21:50:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> se me apago el celu
+[08Dec2024 21:51:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> recien miro y no estaba cargon
+[08Dec2024 21:51:09.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> cargando
+[08Dec2024 21:51:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> xdxdxdxd
