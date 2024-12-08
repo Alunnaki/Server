@@ -1115,3 +1115,21 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 22:18:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> :c
 [08Dec2024 22:20:58.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> guarda queria decir
 [08Dec2024 22:21:00.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> xd
+[08Dec2024 22:23:56.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> como se dice? cuando mostras tu casa tur
+[08Dec2024 22:24:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> un tur por mi casa
+[08Dec2024 22:24:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> ya vengo
+[08Dec2024 22:24:15.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 22:24:15.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 22:24:18.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 22:24:18.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 22:31:40.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:48975] logged in with entity id 86512 at (942.9078066888719, 74.0, 54.18303392817672)
+[08Dec2024 22:31:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 22:31:40.318] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 22:35:31.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 22:35:31.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 22:35:31.399] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 22:36:16.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:51449] logged in with entity id 87152 at (-985.7695603014342, 101.0, 665.5437817490574)
+[08Dec2024 22:36:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 22:36:16.010] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 22:38:57.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 22:38:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
