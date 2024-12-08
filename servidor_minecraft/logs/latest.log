@@ -904,3 +904,10 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 20:27:48.296] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
 [08Dec2024 20:29:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was blown up by Creeper
 [08Dec2024 20:29:15.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[08Dec2024 20:30:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Zombie
+[08Dec2024 20:31:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 fell from a high place
+[08Dec2024 20:38:41.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 20:38:41.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 20:40:24.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:50689] logged in with entity id 40592 at (599.1039778480636, 100.0, 137.30000001192093)
+[08Dec2024 20:40:24.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 20:40:24.479] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
