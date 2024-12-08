@@ -911,3 +911,21 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 20:40:24.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:50689] logged in with entity id 40592 at (599.1039778480636, 100.0, 137.30000001192093)
 [08Dec2024 20:40:24.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
 [08Dec2024 20:40:24.479] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 20:40:35.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 20:40:35.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 20:41:15.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Hollow Solids]
+[08Dec2024 20:41:58.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:43105] logged in with entity id 41220 at (599.6999999880791, 101.0, 136.7458612732022)
+[08Dec2024 20:41:58.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 20:41:58.525] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 20:42:15.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[08Dec2024 20:45:23.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[08Dec2024 20:45:30.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 20:45:30.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 20:46:05.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:48945] logged in with entity id 43783 at (203.62195365592103, -48.0, 125.30969363443779)
+[08Dec2024 20:46:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 20:46:05.070] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 20:46:08.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 20:46:08.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 20:48:03.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:56921] logged in with entity id 44312 at (204.4382271259391, -48.0, 123.97815138644212)
+[08Dec2024 20:48:03.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 20:48:03.822] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234

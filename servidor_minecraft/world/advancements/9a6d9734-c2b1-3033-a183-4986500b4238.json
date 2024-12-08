@@ -2166,6 +2166,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-08 20:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 20:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 20:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
@@ -2178,27 +2250,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-08 20:37:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-08 20:37:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
     },
     "done": true
   },
@@ -2220,12 +2274,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
@@ -2238,12 +2286,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
@@ -2253,12 +2295,6 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
     },
     "done": true
   },
@@ -2286,18 +2322,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
@@ -2316,27 +2340,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-08 20:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
     },
     "done": true
   },
@@ -2358,9 +2364,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "tetra:spelunking/geode": {
     "criteria": {
-      "has_granite": "2024-12-08 20:36:45 +0000"
+      "get_geode": "2024-12-08 20:41:15 +0000"
     },
     "done": true
   },
