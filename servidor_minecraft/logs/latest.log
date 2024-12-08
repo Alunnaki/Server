@@ -879,3 +879,15 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 20:04:02.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [08Dec2024 20:04:02.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [08Dec2024 20:08:54.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Dec2024 20:14:04.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:52997] logged in with entity id 23278 at (157.373148895687, 63.0, 20.139948916818376)
+[08Dec2024 20:14:04.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 20:14:04.728] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 20:14:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> hola miri
+[08Dec2024 20:14:20.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> hola
+[08Dec2024 20:14:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> tu nariz
+[08Dec2024 20:14:25.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> hola
+[08Dec2024 20:14:32.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type
+[08Dec2024 20:14:42.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> q tortuga?
+[08Dec2024 20:15:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> adopte una tortuga empezo a girar y voló por mi ventana hacia el mar y la perdi
+[08Dec2024 20:15:03.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[08Dec2024 20:15:03.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
