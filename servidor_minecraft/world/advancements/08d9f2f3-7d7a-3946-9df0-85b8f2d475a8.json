@@ -1548,6 +1548,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "tomato": "2024-12-08 01:55:44 +0000",
       "wheat": "2024-12-06 23:42:43 +0000"
     },
     "done": false
@@ -1810,6 +1811,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 01:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-08 01:34:09 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 01:39:55 +0000"
@@ -1822,15 +1835,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
-      "has_log": "2024-12-08 01:34:09 +0000"
+      "fried_egg": "2024-12-08 01:55:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_log": "2024-12-08 01:34:09 +0000"
+      "has_egg": "2024-12-08 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-08 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-08 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-08 01:55:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2024-12-08 01:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 01:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-08 01:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-08 01:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 01:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-08 01:55:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-12-08 01:56:07 +0000"
     },
     "done": true
   },

@@ -454,6 +454,7 @@
       "cooked_porkchop": "2024-12-07 03:02:51 +0000",
       "cooked_mutton": "2024-12-07 05:48:56 +0000",
       "cooked_beef": "2024-12-07 04:35:14 +0000",
+      "porkchop": "2024-12-08 01:51:04 +0000",
       "apple": "2024-12-06 23:36:03 +0000",
       "cooked_cod": "2024-12-07 02:04:29 +0000",
       "pumpkin_pie": "2024-12-06 22:53:58 +0000",
@@ -461,7 +462,9 @@
       "golden_apple": "2024-12-06 23:10:48 +0000",
       "rotten_flesh": "2024-12-07 18:50:50 +0000",
       "salmon": "2024-12-07 00:50:05 +0000",
+      "melon_slice": "2024-12-08 01:58:45 +0000",
       "golden_carrot": "2024-12-07 02:35:53 +0000",
+      "enchanted_golden_apple": "2024-12-08 01:49:49 +0000",
       "cod": "2024-12-07 00:43:59 +0000",
       "cooked_salmon": "2024-12-07 01:04:06 +0000"
     },
@@ -3325,6 +3328,36 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-08 01:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-08 01:58:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-08 01:58:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-08 01:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-08 01:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-08 01:58:43 +0000"
     },
     "done": true
   },

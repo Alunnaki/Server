@@ -49,6 +49,7 @@
       "minecraft:jungle": "2024-12-06 22:41:44 +0000",
       "minecraft:ocean": "2024-12-07 01:04:15 +0000",
       "minecraft:flower_forest": "2024-12-06 20:08:06 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 02:06:06 +0000",
       "minecraft:deep_dark": "2024-12-06 23:29:30 +0000",
       "minecraft:savanna": "2024-12-06 20:09:42 +0000",
       "minecraft:plains": "2024-12-06 20:38:11 +0000"
@@ -3045,6 +3046,66 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-08 01:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-08 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-08 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-08 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-08 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-08 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-08 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-08 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-08 02:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-08 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-08 02:08:01 +0000"
     },
     "done": true
   },
