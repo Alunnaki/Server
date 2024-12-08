@@ -891,3 +891,16 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 20:15:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> adopte una tortuga empezo a girar y voló por mi ventana hacia el mar y la perdi
 [08Dec2024 20:15:03.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
 [08Dec2024 20:15:03.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[08Dec2024 20:22:19.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=901, y=57, z=48} BlockPos{x=901, y=58, z=48}
+[08Dec2024 20:22:19.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=901, y=57, z=48} BlockPos{x=901, y=58, z=48}
+[08Dec2024 20:22:19.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=58, z=48} BlockPos{x=901, y=58, z=48}
+[08Dec2024 20:22:19.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=58, z=48} BlockPos{x=901, y=58, z=48}
+[08Dec2024 20:24:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> atras mio aparecio herobrine y me miro de arriba a abajo y desaparecio
+[08Dec2024 20:24:21.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> el mauri te lo puede confirmar
+[08Dec2024 20:27:35.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 20:27:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 20:27:48.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:46881] logged in with entity id 32339 at (93.53333192787737, 66.0, 9.544672613449386)
+[08Dec2024 20:27:48.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 20:27:48.296] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 20:29:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was blown up by Creeper
+[08Dec2024 20:29:15.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
