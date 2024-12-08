@@ -1122,3 +1122,43 @@ Reason: Banned by an operator.
 [08Dec2024 02:50:38.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:52117] logged in with entity id 121966 at (1108.4115035114828, 67.0, -984.9382254715149)
 [08Dec2024 02:50:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
 [08Dec2024 02:50:38.952] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 02:51:41.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> 1109 -985
+[08Dec2024 02:51:53.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[08Dec2024 02:51:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[08Dec2024 02:51:54.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 02:51:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 02:52:04.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:50381] logged in with entity id 122396 at (1122.1038504307508, 67.0, -983.3579146439934)
+[08Dec2024 02:52:04.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 02:52:04.977] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 02:52:08.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:58491] logged in with entity id 122868 at (1129.2522408002692, 63.0, -1000.8043534292073)
+[08Dec2024 02:52:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[08Dec2024 02:52:08.504] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[08Dec2024 02:52:08.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 02:52:08.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 02:52:13.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[08Dec2024 02:52:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[08Dec2024 02:52:20.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:54935] logged in with entity id 122906 at (1121.39949360785, 67.0, -984.5208317392326)
+[08Dec2024 02:52:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 02:52:20.138] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 02:52:43.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:34793] logged in with entity id 123152 at (1141.7075104328128, 64.1212968405392, -993.0479494736018)
+[08Dec2024 02:52:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[08Dec2024 02:52:44.007] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[08Dec2024 02:53:05.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Skeleton
+[08Dec2024 02:53:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was shot by Skeleton
+[08Dec2024 02:53:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was blown up by Creeper
+[08Dec2024 02:56:26.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 02:56:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 02:56:34.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.154.80.35:55153] logged in with entity id 126103 at (364.30000001192093, 72.0, -8.089767355198267)
+[08Dec2024 02:56:34.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 02:56:34.191] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 02:57:13.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/122759, l='ServerLevel[world]', x=1164.35, y=65.00, z=-895.37] died, message: 'Fletcher was slain by Zombie'
+[08Dec2024 03:03:56.926] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Dec2024 03:03:56.928] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Dec2024 03:03:56.928] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Dec2024 03:03:56.928] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Dec2024 03:04:08.302] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Dec2024 03:04:08.303] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Dec2024 03:04:08.303] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Dec2024 03:04:08.304] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Dec2024 03:09:46.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[08Dec2024 03:10:38.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/129526, l='ServerLevel[world]', x=118.70, y=66.42, z=713.16] died, message: 'Nitwit was slain by Zombie'
