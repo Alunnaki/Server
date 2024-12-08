@@ -1165,3 +1165,12 @@ Reason: Banned by an operator.
 [08Dec2024 03:13:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA died
 [08Dec2024 03:20:23.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [08Dec2024 03:20:23.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[08Dec2024 03:23:18.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[08Dec2024 03:24:19.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/145217, l='ServerLevel[world]', x=91.70, y=67.00, z=736.44] died, message: 'Villager was slain by Zombie'
+[08Dec2024 03:30:22.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 03:30:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 03:30:58.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:51413] logged in with entity id 151531 at (1126.3495597939652, 71.0, -975.9754279295033)
+[08Dec2024 03:30:58.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 03:30:58.748] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 03:31:00.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 03:31:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
