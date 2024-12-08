@@ -3292,15 +3292,27 @@
     },
     "done": true
   },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2024-12-08 00:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-08 00:53:04 +0000"
     },
     "done": true
   },
-  "paraglider:all_vessels": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "code_triggered": "2024-12-08 00:48:18 +0000"
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-12-08 00:59:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-12-08 00:59:42 +0000"
     },
     "done": true
   },

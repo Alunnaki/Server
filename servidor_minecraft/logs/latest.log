@@ -690,3 +690,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 00:54:34.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [08Dec2024 00:56:49.889] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
 [08Dec2024 00:57:51.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by MauricioX1
+[08Dec2024 00:58:42.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Spooky Scary Skeleton]
+[08Dec2024 00:58:56.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/EntityFallingBlock$EnumFallingBlockMode
+[08Dec2024 00:59:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Crafting a New Look]
+[08Dec2024 01:02:54.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[08Dec2024 01:03:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[08Dec2024 01:04:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by MauricioX1
+[08Dec2024 01:04:04.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Once Upon a Cave]
+[08Dec2024 01:04:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[08Dec2024 01:04:19.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was killed
+[08Dec2024 01:04:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed NAHU_1234]
+[08Dec2024 01:04:23.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Once Upon a Cave]
+[08Dec2024 01:04:25.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was killed
+[08Dec2024 01:04:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed NAHU_1234]
+[08Dec2024 01:04:30.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was killed
+[08Dec2024 01:04:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed NAHU_1234]
+[08Dec2024 01:04:31.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Spooky Scary Skeleton]
+[08Dec2024 01:04:34.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was killed
+[08Dec2024 01:04:34.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Killed NAHU_1234]
+[08Dec2024 01:06:43.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Dec2024 01:06:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> mauri
+[08Dec2024 01:07:41.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Ice Bucket Challenge]
+[08Dec2024 01:07:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[08Dec2024 01:08:55.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 01:08:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 01:08:55.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:08:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:08:55.591] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 01:09:58.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:60951] logged in with entity id 21372 at (353.38502280093445, 83.0, 35.327899246014255)
+[08Dec2024 01:09:58.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:09:58.659] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:10:58.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.154.80.35:43479] logged in with entity id 21816 at (947.2670232661056, 75.0, 55.94999998807907)
+[08Dec2024 01:10:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 01:10:58.136] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 01:12:27.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:12:27.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:12:27.677] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 01:12:34.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:46811] logged in with entity id 23241 at (300.921992523079, 71.17675927506424, -85.37681731269804)
+[08Dec2024 01:12:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:12:34.362] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:12:41.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Man From The Fog
+[08Dec2024 01:13:48.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 01:13:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 01:14:08.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Man From The Fog
+[08Dec2024 01:14:43.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[08Dec2024 01:15:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was blown up by Mutant Creeper
+[08Dec2024 01:15:05.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[08Dec2024 01:15:08.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.154.80.35:56595] logged in with entity id 27305 at (890.6735326499723, 103.13050451123756, 51.543133426285365)
+[08Dec2024 01:15:08.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 01:15:08.692] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 01:16:27.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was shot by Skeleton
+[08Dec2024 01:17:06.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 01:17:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 01:17:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was shot by Skeleton
