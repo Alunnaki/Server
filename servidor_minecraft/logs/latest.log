@@ -1174,3 +1174,9 @@ Reason: Banned by an operator.
 [08Dec2024 03:30:58.748] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
 [08Dec2024 03:31:00.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
 [08Dec2024 03:31:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 03:32:04.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:57247] logged in with entity id 152603 at (1126.3495597939652, 71.0, -975.9754279295033)
+[08Dec2024 03:32:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 03:32:04.905] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 03:34:23.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Zombie
+[08Dec2024 03:39:43.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 03:39:43.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
