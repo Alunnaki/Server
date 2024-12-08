@@ -797,3 +797,60 @@ Reason: Banned by an operator.
 [08Dec2024 01:25:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
 [08Dec2024 01:25:42.807] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
 [08Dec2024 01:28:29.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[08Dec2024 01:29:21.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:29:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:29:28.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 01:29:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 01:29:29.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:51047] logged in with entity id 41085 at (116.04217419003203, 66.0, -28.532146415465654)
+[08Dec2024 01:29:29.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:29:29.180] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:29:32.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:29:32.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:29:38.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Man From The Fog
+[08Dec2024 01:29:43.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:53565] logged in with entity id 41511 at (109.48193513935868, 66.0, -29.40999930116198)
+[08Dec2024 01:29:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:29:43.127] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:29:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to NAHU_1234]
+[08Dec2024 01:29:48.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:46743] logged in with entity id 41622 at (112.52287004677707, 66.0, -26.1318398453265)
+[08Dec2024 01:29:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 01:29:48.927] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 01:31:04.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 01:31:04.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 01:32:10.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:32:10.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:32:19.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:55153] logged in with entity id 43469 at (116.88527362324461, 66.0, -33.52558428912788)
+[08Dec2024 01:32:19.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:32:19.926] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:32:23.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:39525] logged in with entity id 43589 at (111.92390111622541, 66.0, -34.1301503720721)
+[08Dec2024 01:32:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 01:32:23.281] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 01:32:46.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/41755, l='ServerLevel[world]', x=79.81, y=79.00, z=-271.66] died, message: 'Farmer was slain by Zombie'
+[08Dec2024 01:33:30.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was shot by Skeleton
+[08Dec2024 01:33:37.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:33:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:33:41.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 01:33:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 01:33:45.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:38249] logged in with entity id 44194 at (110.01470367038534, 66.0, -29.932263832154046)
+[08Dec2024 01:33:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:33:45.596] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:34:01.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:40673] logged in with entity id 44278 at (124.09936860791717, 66.49520087700593, -16.811268023128296)
+[08Dec2024 01:34:01.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 01:34:01.227] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 01:36:52.060] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[08Dec2024 01:37:11.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46425, l='ServerLevel[world]', x=133.49, y=-256.00, z=101.05] died, message: 'Villager was killed'
+[08Dec2024 01:37:20.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was blown up by Creeper
+[08Dec2024 01:37:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[08Dec2024 01:38:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 was slain by Hoglin
+[08Dec2024 01:38:19.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 01:38:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 01:38:21.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Man From The Fog
+[08Dec2024 01:38:21.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:38:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:38:30.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:60947] logged in with entity id 48582 at (121.43307154284923, 66.0, -31.395992513475168)
+[08Dec2024 01:38:30.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:38:30.267] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:38:35.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:34045] logged in with entity id 48738 at (107.43139188497668, 66.0, -33.41222790664923)
+[08Dec2024 01:38:35.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 01:38:35.906] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 01:38:47.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[08Dec2024 01:38:54.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
