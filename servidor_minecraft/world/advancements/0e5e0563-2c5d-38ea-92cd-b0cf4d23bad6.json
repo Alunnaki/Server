@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-08 05:03:31 +0000",
       "minecraft:sunflower_plains": "2024-12-07 05:00:36 +0000",
       "minecraft:cherry_grove": "2024-12-07 21:15:32 +0000",
       "minecraft:birch_forest": "2024-12-06 23:46:21 +0000",
@@ -52,8 +53,11 @@
       "minecraft:cold_ocean": "2024-12-08 04:41:00 +0000",
       "minecraft:forest": "2024-12-06 23:01:43 +0000",
       "minecraft:lush_caves": "2024-12-06 23:05:15 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-08 04:52:19 +0000",
+      "minecraft:windswept_forest": "2024-12-08 05:03:16 +0000",
       "minecraft:jungle": "2024-12-06 23:02:23 +0000",
       "minecraft:ocean": "2024-12-07 03:24:50 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-08 05:04:19 +0000",
       "minecraft:flower_forest": "2024-12-06 21:19:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-06 23:47:03 +0000",
       "minecraft:deep_dark": "2024-12-06 23:30:26 +0000",
@@ -3519,9 +3523,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-08 04:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 05:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-08 05:07:24 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2024-12-08 04:24:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-08 05:06:26 +0000"
     },
     "done": true
   },
@@ -3530,6 +3558,12 @@
       "in_better_spider_dungeon": "2024-12-08 04:26:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-08 04:50:40 +0000"
+    },
+    "done": true
   },
   "betterdungeons:spider_dungeon": {
     "criteria": {
