@@ -1162,3 +1162,6 @@ Reason: Banned by an operator.
 [08Dec2024 03:04:08.304] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
 [08Dec2024 03:09:46.371] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [08Dec2024 03:10:38.519] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/129526, l='ServerLevel[world]', x=118.70, y=66.42, z=713.16] died, message: 'Nitwit was slain by Zombie'
+[08Dec2024 03:13:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA died
+[08Dec2024 03:20:23.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[08Dec2024 03:20:23.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
