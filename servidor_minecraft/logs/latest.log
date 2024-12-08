@@ -1105,3 +1105,20 @@ Reason: Banned by an operator.
 [08Dec2024 02:38:23.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/118307, l='ServerLevel[world]', x=974.45, y=47.00, z=42.53] died: Unlicensed Alchemist was slain by Mirianisabel123
 [08Dec2024 02:38:40.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
 [08Dec2024 02:38:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[08Dec2024 02:42:40.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Take Aim]
+[08Dec2024 02:47:17.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:60217] logged in with entity id 120110 at (1109.300000011921, 67.0, -982.1293032682145)
+[08Dec2024 02:47:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 02:47:17.877] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 02:48:18.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 02:48:18.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 02:48:43.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:51257] logged in with entity id 120777 at (1107.9523559822878, 67.0, -985.3000000119209)
+[08Dec2024 02:48:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 02:48:43.779] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 02:50:16.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 02:50:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 02:50:22.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:43221] logged in with entity id 121513 at (1108.4956380895753, 68.0, -987.0571359790088)
+[08Dec2024 02:50:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[08Dec2024 02:50:22.777] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[08Dec2024 02:50:38.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:52117] logged in with entity id 121966 at (1108.4115035114828, 67.0, -984.9382254715149)
+[08Dec2024 02:50:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 02:50:38.952] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
