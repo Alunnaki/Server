@@ -1159,3 +1159,21 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 23:13:43.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
 [08Dec2024 23:13:43.994] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
 [08Dec2024 23:15:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [When in Rome]
+[08Dec2024 23:27:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 fell from a high place
+[08Dec2024 23:27:15.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[08Dec2024 23:28:42.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> 111 -128
+[08Dec2024 23:28:47.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> }?
+[08Dec2024 23:30:04.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[08Dec2024 23:30:23.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 drowned
+[08Dec2024 23:31:36.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[08Dec2024 23:31:36.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[08Dec2024 23:32:07.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:54143] logged in with entity id 102655 at (1785.2536204679484, 36.0, -2038.5057297954752)
+[08Dec2024 23:32:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[08Dec2024 23:32:07.137] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[08Dec2024 23:35:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> -992 660
+[08Dec2024 23:35:30.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> esas son la cord de mi casa
+[08Dec2024 23:35:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> por si quieren venir
+[08Dec2024 23:35:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> bueno .c
+[08Dec2024 23:37:47.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> 1100 -980
+[08Dec2024 23:40:07.365] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cerbon/bosses_of_mass_destruction/entity/custom/void_blossom/hitbox/HitboxId
+[08Dec2024 23:40:07.367] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
