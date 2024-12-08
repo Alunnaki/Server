@@ -954,3 +954,21 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 20:59:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> de diamons
 [08Dec2024 20:59:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> loviu
 [08Dec2024 21:00:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> jejejijeijiejeojeujuej
+[08Dec2024 21:01:18.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 21:01:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 21:02:24.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 21:02:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 21:02:30.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:47405] logged in with entity id 48954 at (935.9250000119209, 77.0, 56.69999998807907)
+[08Dec2024 21:02:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 21:02:30.267] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 21:03:59.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:44891] logged in with entity id 49338 at (211.59066277023283, -46.0, 133.44972065415018)
+[08Dec2024 21:03:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 21:03:59.520] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 21:05:48.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> 260 151
+[08Dec2024 21:05:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> :C
+[08Dec2024 21:06:13.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50205, l='ServerLevel[world]', x=133.49, y=-256.00, z=100.66] died, message: 'Villager was killed'
+[08Dec2024 21:06:22.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> 260 151 me estan matando :c si no venis rapido lo q va apasar es
+[08Dec2024 21:06:46.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> https://www.youtube.com/watch?v=5oXsUsjrb1g&t=101s
+[08Dec2024 21:06:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> me confundi
+[08Dec2024 21:06:55.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> Para entender la historia de Five Nights at Freddy's hay que olvidarse que estos son juegos y quiero que tomen realmente a esta saga como lo que es. ¿Terror? Sí, pero sobre todo, ciencia ficción. Antes de comenzar, quiero decir que esta cronología la reali
+[08Dec2024 21:07:13.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> m
