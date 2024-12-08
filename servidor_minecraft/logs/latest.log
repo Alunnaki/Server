@@ -664,3 +664,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 00:47:22.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
 [08Dec2024 00:47:22.826] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
 [08Dec2024 00:47:44.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[08Dec2024 00:48:09.912] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[08Dec2024 00:48:12.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[08Dec2024 00:48:16.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Dec2024 00:48:18.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[08Dec2024 00:48:18.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has completed the challenge [Hero of Hyrule]
+[08Dec2024 00:48:33.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[08Dec2024 00:48:39.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 00:48:40.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.8.169.72:57459] logged in with entity id 2297 at (947.3299212487191, 75.6256692145686, 46.94999998807907)
+[08Dec2024 00:48:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[08Dec2024 00:48:40.387] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[08Dec2024 00:48:40.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[08Dec2024 00:48:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[08Dec2024 00:49:32.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[08Dec2024 00:49:57.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Dec2024 00:50:30.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:40279] logged in with entity id 3954 at (128.69999998807907, 70.9375, 96.69999998807907)
+[08Dec2024 00:50:30.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 00:50:30.635] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 00:51:04.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[08Dec2024 00:51:04.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[08Dec2024 00:52:21.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 died
+[08Dec2024 00:52:23.337] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[08Dec2024 00:52:27.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Dec2024 00:54:34.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[08Dec2024 00:54:34.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Dec2024 00:56:49.889] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[08Dec2024 00:57:51.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by MauricioX1
