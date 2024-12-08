@@ -5605,3 +5605,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 18:22:14.247] [Server thread/DEBUG] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Loaded corgitaco.enhancedcelestials.forge.platform.ForgePlatformHelper@4ca6d9d4 for service interface corgitaco.enhancedcelestials.platform.services.IPlatformHelper
 [08Dec2024 18:24:55.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 18:24:55.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:29:55.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:29:55.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 18:32:38.520] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/PacketFlow
+[08Dec2024 18:32:38.527] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing networkstats.NettyPacketEncoderMixin from connectivity.mixins.json into net.minecraft.network.PacketEncoder
+[08Dec2024 18:32:38.535] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[08Dec2024 18:32:38.538] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ConnectionProtocolMixin from connectivity.mixins.json into net.minecraft.network.ConnectionProtocol$PacketSet
+[08Dec2024 18:32:38.539] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$onAdd$1(Ljava/lang/Class;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/network/protocol/Packet; to md0229ef$lambda$onAdd$1$0 in connectivity.mixins.json:ConnectionProtocolMixin
+[08Dec2024 18:32:38.539] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Renaming synthetic method lambda$onAdd$0(Ljava/lang/Class;Lnet/minecraft/network/FriendlyByteBuf;)Lnet/minecraft/network/protocol/Packet; to md0229ef$lambda$onAdd$0$1 in connectivity.mixins.json:ConnectionProtocolMixin
+[08Dec2024 18:32:38.555] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[08Dec2024 18:32:38.572] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[08Dec2024 18:32:38.582] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[08Dec2024 18:32:38.591] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[08Dec2024 18:32:38.592] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/ChatVisiblity
+[08Dec2024 18:32:38.593] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/HumanoidArm
+[08Dec2024 18:32:38.594] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[08Dec2024 18:32:38.597] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[08Dec2024 18:32:38.601] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[08Dec2024 18:32:38.602] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[08Dec2024 18:32:38.605] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[08Dec2024 18:32:38.606] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[08Dec2024 18:32:38.608] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[08Dec2024 18:32:38.610] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[08Dec2024 18:32:44.748] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[08Dec2024 18:32:44.748] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[08Dec2024 18:32:44.748] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[08Dec2024 18:32:44.748] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[08Dec2024 18:34:55.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 18:34:55.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
