@@ -854,3 +854,44 @@ Reason: Banned by an operator.
 [08Dec2024 01:38:35.906] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
 [08Dec2024 01:38:47.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [08Dec2024 01:38:54.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[08Dec2024 01:39:50.860] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/50609, l='ServerLevel[world]', x=930.50, y=50.00, z=-301.50]
+[08Dec2024 01:39:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Mine? Mine? Mine?]
+[08Dec2024 01:41:09.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Wingin' It]
+[08Dec2024 01:41:18.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[08Dec2024 01:41:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[08Dec2024 01:43:30.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Naga
+[08Dec2024 01:44:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Wither Skeleton
+[08Dec2024 01:44:50.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:44:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:45:09.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:60943] logged in with entity id 54810 at (79.54538701936393, 213.0, -16.69999998807907)
+[08Dec2024 01:45:09.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:45:09.411] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:45:23.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 01:45:23.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 01:46:35.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.154.80.35:36309] logged in with entity id 55424 at (78.45338973798165, 230.0, 5.880384577873993)
+[08Dec2024 01:46:35.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 01:46:35.056] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 01:46:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 fell from a high place
+[08Dec2024 01:47:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 fell from a high place
+[08Dec2024 01:47:35.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 01:47:35.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 01:47:39.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Hoglin
+[08Dec2024 01:47:53.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[08Dec2024 01:47:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[08Dec2024 01:47:54.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:47:54.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:48:03.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:60723] logged in with entity id 56648 at (80.46514301980828, 213.09890992794374, -5.1486322216784535)
+[08Dec2024 01:48:03.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:48:03.453] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:48:15.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 01:48:15.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 01:48:22.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.249.116.109:46363] logged in with entity id 56779 at (78.67697817064868, 220.0, -2.9151204333016807)
+[08Dec2024 01:48:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 01:48:22.299] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 01:48:31.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.154.80.35:52047] logged in with entity id 56899 at (75.7187168227687, 208.0, 16.734902298448144)
+[08Dec2024 01:48:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[08Dec2024 01:48:31.960] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[08Dec2024 01:48:37.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.154.80.35:46993] logged in with entity id 56957 at (78.5805475125264, 228.0, -0.703125373802596)
+[08Dec2024 01:48:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 01:48:37.107] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 01:48:52.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> aaaaaw

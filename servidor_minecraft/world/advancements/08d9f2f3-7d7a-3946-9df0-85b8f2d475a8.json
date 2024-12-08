@@ -43,6 +43,7 @@
       "minecraft:dark_forest": "2024-12-08 01:36:08 +0000",
       "minecraft:sparse_jungle": "2024-12-06 22:36:57 +0000",
       "minecraft:river": "2024-12-06 22:28:24 +0000",
+      "minecraft:stony_shore": "2024-12-08 01:39:15 +0000",
       "minecraft:dripstone_caves": "2024-12-06 22:48:26 +0000",
       "minecraft:forest": "2024-12-06 22:35:42 +0000",
       "minecraft:lush_caves": "2024-12-06 22:48:41 +0000",
@@ -1806,6 +1807,18 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-08 01:33:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-08 01:39:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-08 01:41:09 +0000"
     },
     "done": true
   },
