@@ -929,3 +929,28 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 20:48:03.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:56921] logged in with entity id 44312 at (204.4382271259391, -48.0, 123.97815138644212)
 [08Dec2024 20:48:03.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
 [08Dec2024 20:48:03.822] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 20:52:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Tactical Fishing]
+[08Dec2024 20:53:22.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[08Dec2024 20:53:22.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[08Dec2024 20:54:24.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.193.230.168:42463] logged in with entity id 46585 at (226.55922708878543, -48.0, 154.30000001192093)
+[08Dec2024 20:54:24.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[08Dec2024 20:54:24.773] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[08Dec2024 20:55:49.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 20:55:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 20:58:08.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:44551] logged in with entity id 47797 at (939.6081941076676, 77.0, 57.946109836110836)
+[08Dec2024 20:58:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 20:58:08.171] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 20:59:15.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki no longer a server operator
+[08Dec2024 20:59:27.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> si
+[08Dec2024 20:59:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> comiendo pizza
+[08Dec2024 20:59:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> por q no hablas
+[08Dec2024 20:59:36.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> a
+[08Dec2024 20:59:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> poreso
+[08Dec2024 20:59:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> mmmmm ñami ñami
+[08Dec2024 20:59:45.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[08Dec2024 20:59:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> nam nam nam
+[08Dec2024 20:59:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> poñeño
+[08Dec2024 20:59:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> ya tengo 2 stacks
+[08Dec2024 20:59:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> de diamons
+[08Dec2024 20:59:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> loviu
+[08Dec2024 21:00:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> jejejijeijiejeojeujuej
