@@ -761,3 +761,118 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [08Dec2024 19:28:55.024] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
 [08Dec2024 19:28:55.024] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
 [08Dec2024 19:28:55.028] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[08Dec2024 19:32:40.081] [Worker-Main-70/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[08Dec2024 19:33:04.309] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Dec2024 19:34:42.005] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[08Dec2024 19:35:04.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[08Dec2024 19:35:59.107] [Worker-Main-72/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[08Dec2024 19:35:59.116] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[08Dec2024 19:35:59.116] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[08Dec2024 19:35:59.117] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[08Dec2024 19:35:59.117] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[08Dec2024 19:35:59.153] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[08Dec2024 19:35:59.164] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[08Dec2024 19:35:59.165] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[08Dec2024 19:35:59.166] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[08Dec2024 19:35:59.166] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[08Dec2024 19:35:59.167] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[08Dec2024 19:35:59.168] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[08Dec2024 19:35:59.168] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[08Dec2024 19:35:59.176] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[08Dec2024 19:35:59.177] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[08Dec2024 19:35:59.177] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[08Dec2024 19:36:00.465] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[08Dec2024 19:36:00.466] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[08Dec2024 19:36:00.466] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[08Dec2024 19:36:00.466] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[08Dec2024 19:36:00.476] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[08Dec2024 19:36:00.651] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[08Dec2024 19:36:00.651] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[08Dec2024 19:36:00.651] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[08Dec2024 19:36:00.663] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[08Dec2024 19:36:00.664] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[08Dec2024 19:36:00.664] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[08Dec2024 19:36:00.665] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[08Dec2024 19:36:00.665] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[08Dec2024 19:36:00.674] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[08Dec2024 19:36:00.674] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[08Dec2024 19:36:00.680] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[08Dec2024 19:36:01.258] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[08Dec2024 19:36:01.274] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[08Dec2024 19:36:01.277] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[08Dec2024 19:36:01.280] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[08Dec2024 19:36:01.280] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[08Dec2024 19:36:01.280] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[08Dec2024 19:36:01.282] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[08Dec2024 19:36:37.698] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[08Dec2024 19:36:37.701] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[08Dec2024 19:36:37.701] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[08Dec2024 19:36:37.701] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[08Dec2024 19:36:37.701] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[08Dec2024 19:36:37.702] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[08Dec2024 19:36:37.702] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[08Dec2024 19:36:37.702] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[08Dec2024 19:36:37.702] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[08Dec2024 19:36:37.702] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[08Dec2024 19:36:37.703] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[08Dec2024 19:36:37.704] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[08Dec2024 19:36:37.704] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[08Dec2024 19:36:37.704] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[08Dec2024 19:36:37.812] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[08Dec2024 19:36:37.812] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[08Dec2024 19:36:37.813] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[08Dec2024 19:36:37.813] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[08Dec2024 19:36:37.814] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[08Dec2024 19:36:37.814] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[08Dec2024 19:36:37.814] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[08Dec2024 19:36:37.814] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[08Dec2024 19:36:37.815] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[08Dec2024 19:36:37.815] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[08Dec2024 19:36:37.816] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[08Dec2024 19:36:37.816] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[08Dec2024 19:36:37.817] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[08Dec2024 19:36:37.817] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[08Dec2024 19:37:48.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Dec2024 19:37:54.398] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[08Dec2024 19:37:54.399] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Dec2024 19:38:18.587] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[08Dec2024 19:38:18.588] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[08Dec2024 19:38:18.588] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[08Dec2024 19:38:19.939] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[08Dec2024 19:38:20.996] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[08Dec2024 19:38:28.868] [Worker-Main-71/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Dec2024 19:38:56.777] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[08Dec2024 19:38:56.778] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[08Dec2024 19:38:56.791] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[08Dec2024 19:38:56.792] [Worker-Main-70/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[08Dec2024 19:39:26.610] [Worker-Main-72/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Dec2024 19:39:26.611] [Worker-Main-72/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[08Dec2024 19:39:51.825] [Worker-Main-70/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Dec2024 19:41:21.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 19:41:21.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 19:41:37.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:35153] logged in with entity id 12497 at (2299.1150325451763, 71.0, 161.06352729931848)
+[08Dec2024 19:41:37.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 19:41:37.805] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 19:41:42.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 19:41:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 19:42:30.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:40385] logged in with entity id 12702 at (2298.2759137682124, 71.0, 160.84825900947175)
+[08Dec2024 19:42:30.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 19:42:30.688] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 19:48:09.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[08Dec2024 19:50:40.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 19:50:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 19:51:23.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:39101] logged in with entity id 17897 at (928.7733689077726, 73.0, -207.37117809964033)
+[08Dec2024 19:51:23.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 19:51:23.230] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 19:51:29.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 19:51:29.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 19:53:36.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:59215] logged in with entity id 18157 at (929.7819553228813, 73.0, -190.65308643091365)
+[08Dec2024 19:53:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 19:53:36.019] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 19:53:59.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[08Dec2024 19:53:59.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[08Dec2024 19:54:22.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:57079] logged in with entity id 18581 at (934.8308376933095, 70.0, -130.88074980452689)
+[08Dec2024 19:54:22.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[08Dec2024 19:54:22.981] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[08Dec2024 19:56:28.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[08Dec2024 19:57:48.690] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
