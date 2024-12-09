@@ -71,3 +71,47 @@
 [09Dec2024 00:52:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Ant Farm]
 [09Dec2024 01:02:51.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityLeafcutterAnt['Tomás'/157473, l='ServerLevel[world]', x=-995.52, y=101.06, z=666.70] died: Tomás was slain by MauricioX1
 [09Dec2024 01:03:00.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was doomed to fall by MauricioX1
+[09Dec2024 01:05:39.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:41385] logged in with entity id 159674 at (-990.0615646208817, 101.0625, 660.0171621957973)
+[09Dec2024 01:05:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 01:05:39.945] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 01:11:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was doomed to fall by MauricioX1
+[09Dec2024 01:14:14.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[09Dec2024 01:14:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[09Dec2024 01:14:22.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:48633] logged in with entity id 161534 at (-990.7160510176856, 101.0, 651.3469256139847)
+[09Dec2024 01:14:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[09Dec2024 01:14:22.746] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[09Dec2024 01:15:05.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:48455] logged in with entity id 161835 at (936.0867351993404, 77.0, 56.48167938282459)
+[09Dec2024 01:15:05.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 01:15:05.378] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 01:15:45.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[09Dec2024 01:17:15.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[09Dec2024 01:17:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[09Dec2024 01:17:24.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:60243] logged in with entity id 162750 at (-993.6999999880791, 105.0, 651.3000000119209)
+[09Dec2024 01:17:24.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[09Dec2024 01:17:24.690] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[09Dec2024 01:18:46.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[09Dec2024 01:18:46.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[09Dec2024 01:19:35.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:42875] logged in with entity id 163272 at (-997.0067690111515, 101.0625, 663.3047471777378)
+[09Dec2024 01:19:35.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[09Dec2024 01:19:35.740] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[09Dec2024 01:19:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by MauricioX1
+[09Dec2024 01:23:26.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> nmahu te saliste de llamada
+[09Dec2024 01:23:27.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> 13
+[09Dec2024 01:23:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> 13 14
+[09Dec2024 01:23:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> 12 12
+[09Dec2024 01:24:44.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Wingin' It]
+[09Dec2024 01:24:58.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[09Dec2024 01:24:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[09Dec2024 01:25:00.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 01:25:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 01:26:19.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.251.22.77:46179] logged in with entity id 168444 at (-991.9803560744552, 117.0, 658.8823938531913)
+[09Dec2024 01:26:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 01:26:19.305] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 01:29:20.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:45051] logged in with entity id 170651 at (-960.4830785530489, 69.162141421027, 630.0662397157838)
+[09Dec2024 01:29:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[09Dec2024 01:29:20.157] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[09Dec2024 01:29:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> -800 300
+[09Dec2024 01:31:15.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -5.192866117028814,0.0,8.56880288992329
+[09Dec2024 01:31:15.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[09Dec2024 01:31:53.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -6.312980529366314,0.0,7.787318860231949
+[09Dec2024 01:34:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by MauricioX1
