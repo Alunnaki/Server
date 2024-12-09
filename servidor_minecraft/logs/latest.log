@@ -69,3 +69,5 @@
 [09Dec2024 00:50:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Enchanter]
 [09Dec2024 00:51:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Enchanter]
 [09Dec2024 00:52:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Ant Farm]
+[09Dec2024 01:02:51.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityLeafcutterAnt['Tomás'/157473, l='ServerLevel[world]', x=-995.52, y=101.06, z=666.70] died: Tomás was slain by MauricioX1
+[09Dec2024 01:03:00.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was doomed to fall by MauricioX1
