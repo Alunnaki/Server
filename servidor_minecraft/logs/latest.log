@@ -115,3 +115,11 @@
 [09Dec2024 01:31:15.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
 [09Dec2024 01:31:53.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -6.312980529366314,0.0,7.787318860231949
 [09Dec2024 01:34:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by MauricioX1
+[09Dec2024 01:36:25.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Mirianisabel123
+[09Dec2024 01:36:45.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
+[09Dec2024 01:38:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by ItsGOJIRA
+[09Dec2024 01:39:53.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Mirianisabel123
+[09Dec2024 01:41:31.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Mirianisabel123
+[09Dec2024 01:43:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by NAHU_1234
+[09Dec2024 01:44:10.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[09Dec2024 01:44:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
