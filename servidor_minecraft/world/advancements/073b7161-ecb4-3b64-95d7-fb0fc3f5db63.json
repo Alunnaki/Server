@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-09 00:36:38 +0000",
       "minecraft:sunflower_plains": "2024-12-07 00:34:24 +0000",
       "minecraft:cherry_grove": "2024-12-08 02:19:12 +0000",
       "minecraft:birch_forest": "2024-12-07 00:48:55 +0000",
@@ -3635,6 +3636,12 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2024-12-09 00:18:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-09 00:38:01 +0000"
     },
     "done": true
   },

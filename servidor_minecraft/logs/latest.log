@@ -44,3 +44,20 @@
 [09Dec2024 00:34:33.883] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
 [09Dec2024 00:34:33.883] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
 [09Dec2024 00:34:33.883] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Dec2024 00:38:01.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Convergent Evolution...]
+[09Dec2024 00:38:43.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-992, y=66, z=676} BlockPos{x=-993, y=66, z=677}
+[09Dec2024 00:38:43.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-992, y=66, z=676} BlockPos{x=-993, y=66, z=677}
+[09Dec2024 00:38:43.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-992, y=66, z=676} BlockPos{x=-993, y=66, z=677}
+[09Dec2024 00:38:43.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-992, y=66, z=676} BlockPos{x=-993, y=66, z=677}
+[09Dec2024 00:38:43.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-992, y=66, z=676} BlockPos{x=-993, y=66, z=677}
+[09Dec2024 00:38:44.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:44.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:44.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:45.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:45.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:45.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:45.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:45.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:38:45.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
+[09Dec2024 00:40:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was doomed to fall by MauricioX1
+[09Dec2024 00:42:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was blown up by Creeper
