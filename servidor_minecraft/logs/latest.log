@@ -1,1 +1,21 @@
 [09Dec2024 00:01:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Hot Stuff]
+[09Dec2024 00:04:01.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 00:04:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 00:04:02.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 00:04:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 00:04:08.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> q paso
+[09Dec2024 00:04:33.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.251.22.77:37947] logged in with entity id 126744 at (1125.839711210834, 68.0, -983.2465491654567)
+[09Dec2024 00:04:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 00:04:33.771] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 00:04:51.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:44143] logged in with entity id 127461 at (1110.3261481376537, 67.0, -983.7330395790068)
+[09Dec2024 00:04:51.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 00:04:51.992] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 00:08:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> -1000 665
+[09Dec2024 00:09:04.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[09Dec2024 00:09:04.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[09Dec2024 00:11:34.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 00:11:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 00:12:09.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.251.22.77:49027] logged in with entity id 132002 at (872.8901883295065, 72.0, -313.98162328939304)
+[09Dec2024 00:12:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 00:12:09.429] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 00:13:26.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Wingin' It]
