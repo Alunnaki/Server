@@ -3831,27 +3831,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-09 01:40:00 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2024-12-09 01:24:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-09 01:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-09 01:40:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_carrot": "2024-12-09 01:36:01 +0000"
+      "has_beetroot": "2024-12-09 01:40:00 +0000"
     },
     "done": true
   },
