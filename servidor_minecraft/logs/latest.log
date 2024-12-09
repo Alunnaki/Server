@@ -61,3 +61,11 @@
 [09Dec2024 00:38:45.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-994, y=65, z=674} BlockPos{x=-996, y=65, z=673}
 [09Dec2024 00:40:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was doomed to fall by MauricioX1
 [09Dec2024 00:42:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was blown up by Creeper
+[09Dec2024 00:48:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> ahora vengo
+[09Dec2024 00:48:26.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> me esta pidiendo buscar algo mi madre
+[09Dec2024 00:48:28.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 00:48:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 00:48:29.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> ta
+[09Dec2024 00:50:04.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Enchanter]
+[09Dec2024 00:51:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Enchanter]
+[09Dec2024 00:52:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Ant Farm]
