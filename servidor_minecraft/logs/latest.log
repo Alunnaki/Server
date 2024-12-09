@@ -19,3 +19,15 @@
 [09Dec2024 00:12:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
 [09Dec2024 00:12:09.429] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
 [09Dec2024 00:13:26.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Wingin' It]
+[09Dec2024 00:15:15.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.94.82.206:41219] logged in with entity id 133937 at (-1001.7803062156222, 71.0, 661.9354430821376)
+[09Dec2024 00:15:15.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[09Dec2024 00:15:15.768] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[09Dec2024 00:18:13.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Ant Farm]
+[09Dec2024 00:18:23.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Ant Farm]
+[09Dec2024 00:18:52.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> -1000 665
+[09Dec2024 00:22:49.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 00:22:49.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 00:22:56.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:40651] logged in with entity id 139955 at (78.35877643832026, 77.0, -249.28578257583948)
+[09Dec2024 00:22:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 00:22:56.133] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 00:23:29.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/138185, l='ServerLevel[world]', x=99.13, y=70.00, z=-241.45] died, message: 'Beekeeper was slain by Zombie'

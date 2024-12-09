@@ -2591,5 +2591,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-09 00:18:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
