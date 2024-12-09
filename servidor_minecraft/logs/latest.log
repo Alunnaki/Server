@@ -31,3 +31,16 @@
 [09Dec2024 00:22:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
 [09Dec2024 00:22:56.133] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
 [09Dec2024 00:23:29.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/138185, l='ServerLevel[world]', x=99.13, y=70.00, z=-241.45] died, message: 'Beekeeper was slain by Zombie'
+[09Dec2024 00:25:07.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142231, l='ServerLevel[world]', x=133.44, y=-256.00, z=101.02] died, message: 'Villager was killed'
+[09Dec2024 00:34:14.690] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Dec2024 00:34:14.691] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Dec2024 00:34:14.691] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Dec2024 00:34:14.692] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Dec2024 00:34:14.779] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Dec2024 00:34:14.780] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Dec2024 00:34:14.780] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Dec2024 00:34:14.780] [Worker-Main-349/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Dec2024 00:34:33.882] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Dec2024 00:34:33.883] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Dec2024 00:34:33.883] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Dec2024 00:34:33.883] [Worker-Main-401/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
